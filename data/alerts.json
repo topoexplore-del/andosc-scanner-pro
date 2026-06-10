@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-06-10 17:53:42 (Hora Colombia)",
+  "checked_at": "2026-06-10 18:23:58 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,13 +10,170 @@
     "drawdown_52w_pct": -4.49,
     "realized_vol_20d": 14.0
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 4,
+  "signals": [
+    {
+      "ticker": "TSM",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 95,
+      "mos": -90.3,
+      "rs_rank": 84,
+      "zones": {
+        "entry": 422.52,
+        "tp1": 440.53,
+        "tp2": 458.54,
+        "sl": 395.5
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "MNST",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -77.4,
+      "rs_rank": 78,
+      "zones": {
+        "entry": 89.54,
+        "tp1": 91.57,
+        "tp2": 93.6,
+        "sl": 86.5
+      },
+      "periods": [
+        "1 Semana"
+      ]
+    },
+    {
+      "ticker": "FAST",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -79.8,
+      "rs_rank": 44,
+      "zones": {
+        "entry": 46.28,
+        "tp1": 47.29,
+        "tp2": 48.3,
+        "sl": 44.77
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "IEX",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -59.0,
+      "rs_rank": 74,
+      "zones": {
+        "entry": 220.74,
+        "tp1": 225.39,
+        "tp2": 230.04,
+        "sl": 213.77
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "THG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "TROW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ITIC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PODD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "IFS",
+      "failed": [
+        "Analysis"
+      ]
+    },
     {
       "ticker": "FCX",
       "failed": [
         "Entry Zones"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
+    {
+      "ticker": "WST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "KO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CDNS",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
