@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-06-11 17:51:15 (Hora Colombia)",
+  "checked_at": "2026-06-11 18:19:07 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -54,12 +54,6 @@
   ],
   "watchlist": [
     {
-      "ticker": "INCY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "APA",
       "failed": [
         "Radar"
@@ -67,6 +61,12 @@
     },
     {
       "ticker": "EOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
@@ -120,13 +120,13 @@
       ]
     },
     {
-      "ticker": "NUE",
+      "ticker": "EMR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "EMR",
+      "ticker": "NUE",
       "failed": [
         "Radar"
       ]
