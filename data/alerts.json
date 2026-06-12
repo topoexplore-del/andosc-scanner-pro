@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-06-11 18:19:07 (Hora Colombia)",
+  "checked_at": "2026-06-12 12:39:15 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 737.76,
-    "spy_sma200": 683.56,
-    "spy_vs_sma200_pct": 7.93,
-    "drawdown_52w_pct": -2.87,
-    "realized_vol_20d": 15.2
+    "spy_price": 741.82,
+    "spy_sma200": 684.07,
+    "spy_vs_sma200_pct": 8.44,
+    "drawdown_52w_pct": -2.34,
+    "realized_vol_20d": 15.1
   },
   "confirmed": 2,
   "signals": [
@@ -96,6 +96,12 @@
       ]
     },
     {
+      "ticker": "FCX",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
+    {
       "ticker": "STLD",
       "failed": [
         "Radar"
@@ -133,12 +139,6 @@
     },
     {
       "ticker": "PNC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "CL",
       "failed": [
         "Analysis"
       ]
