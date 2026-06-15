@@ -1,56 +1,46 @@
 {
-  "checked_at": "2026-06-12 18:10:02 (Hora Colombia)",
+  "checked_at": "2026-06-15 13:28:43 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 741.75,
-    "spy_sma200": 684.07,
-    "spy_vs_sma200_pct": 8.43,
-    "drawdown_52w_pct": -2.35,
-    "realized_vol_20d": 15.1
+    "spy_price": 755.27,
+    "spy_sma200": 684.64,
+    "spy_vs_sma200_pct": 10.32,
+    "drawdown_52w_pct": -0.57,
+    "realized_vol_20d": 15.8
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
-      "ticker": "TROW",
-      "composite": 83,
+      "ticker": "ITIC",
+      "composite": 81,
       "prob": 95,
-      "buffett": 100,
-      "mos": -5.3,
-      "rs_rank": 82,
+      "buffett": 75,
+      "mos": 0.8,
+      "rs_rank": 67,
       "zones": {
-        "entry": 107.57,
-        "tp1": 109.91,
-        "tp2": 112.25,
-        "sl": 104.06
+        "entry": 251.77,
+        "tp1": 258.23,
+        "tp2": 264.69,
+        "sl": 242.08
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
       ]
-    },
-    {
-      "ticker": "GWW",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -79.9,
-      "rs_rank": 80,
-      "zones": {
-        "entry": 1305.93,
-        "tp1": 1332.71,
-        "tp2": 1359.49,
-        "sl": 1265.76
-      },
-      "periods": [
-        "1 Mes"
-      ]
     }
   ],
   "watchlist": [
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
     {
       "ticker": "EOG",
       "failed": [
@@ -58,7 +48,7 @@
       ]
     },
     {
-      "ticker": "INCY",
+      "ticker": "QCOM",
       "failed": [
         "Radar"
       ]
@@ -72,11 +62,29 @@
     {
       "ticker": "TSM",
       "failed": [
-        "Entry Zones"
+        "Radar"
       ]
     },
     {
-      "ticker": "ITIC",
+      "ticker": "TROW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TRGP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "VICI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ANET",
       "failed": [
         "Radar"
       ]
@@ -100,43 +108,19 @@
       ]
     },
     {
-      "ticker": "SPG",
+      "ticker": "TER",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
       "ticker": "FCX",
       "failed": [
-        "Entry Zones"
+        "Radar"
       ]
     },
     {
       "ticker": "STLD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FCX",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "OKE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BRO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DY",
       "failed": [
         "Radar"
       ]
