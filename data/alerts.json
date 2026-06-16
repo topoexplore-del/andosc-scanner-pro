@@ -1,60 +1,26 @@
 {
-  "checked_at": "2026-06-15 18:30:29 (Hora Colombia)",
+  "checked_at": "2026-06-16 07:43:41 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 754.83,
-    "spy_sma200": 684.64,
-    "spy_vs_sma200_pct": 10.25,
-    "drawdown_52w_pct": -0.62,
-    "realized_vol_20d": 15.7
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 14.8
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "ITIC",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 75,
-      "mos": 0.8,
-      "rs_rank": 67,
-      "zones": {
-        "entry": 251.77,
-        "tp1": 258.23,
-        "tp2": 264.69,
-        "sl": 242.08
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
-      "ticker": "INCY",
+      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "EOG",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "THG",
+      "ticker": "SPG",
       "failed": [
         "Analysis"
       ]
@@ -66,49 +32,19 @@
       ]
     },
     {
-      "ticker": "TROW",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TRGP",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "VICI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "ANET",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "LRCX",
+      "ticker": "STRL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TER",
+      "ticker": "HUBB",
       "failed": [
         "Radar"
       ]
@@ -116,13 +52,31 @@
     {
       "ticker": "FCX",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
-      "ticker": "STLD",
+      "ticker": "FCX",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
+      ]
+    },
+    {
+      "ticker": "CNI",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ESS",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "MAR",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
