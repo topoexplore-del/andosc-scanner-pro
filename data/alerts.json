@@ -1,17 +1,60 @@
 {
-  "checked_at": "2026-06-16 07:46:46 (Hora Colombia)",
+  "checked_at": "2026-06-16 13:55:50 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 14.8
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 751.84,
+    "spy_sma200": 685.18,
+    "spy_vs_sma200_pct": 9.73,
+    "drawdown_52w_pct": -1.02,
+    "realized_vol_20d": 15.8
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 2,
+  "signals": [
+    {
+      "ticker": "FCX",
+      "composite": 76,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -65.7,
+      "rs_rank": 64,
+      "zones": {
+        "entry": 69.15,
+        "tp1": 72.41,
+        "tp2": 75.67,
+        "sl": 64.26
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "composite": 76,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -65.7,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 69.15,
+        "tp1": 72.41,
+        "tp2": 75.67,
+        "sl": 64.26
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "BVN",
@@ -50,19 +93,19 @@
       ]
     },
     {
-      "ticker": "FCX",
+      "ticker": "MPWR",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
-      "ticker": "FCX",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Radar"
       ]
     },
     {
       "ticker": "CNI",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "GE",
       "failed": [
         "Analysis"
       ]
