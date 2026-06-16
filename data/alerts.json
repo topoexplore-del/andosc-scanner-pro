@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-06-16 17:58:42 (Hora Colombia)",
+  "checked_at": "2026-06-16 18:19:53 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,15 +10,75 @@
     "drawdown_52w_pct": -1.22,
     "realized_vol_20d": 15.9
   },
-  "confirmed": 2,
+  "confirmed": 5,
   "signals": [
+    {
+      "ticker": "INCY",
+      "composite": 100,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -34.4,
+      "rs_rank": 57,
+      "zones": {
+        "entry": 100.81,
+        "tp1": 104.72,
+        "tp2": 108.63,
+        "sl": 94.95
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "ITIC",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 75,
+      "mos": 1.3,
+      "rs_rank": 65,
+      "zones": {
+        "entry": 250.38,
+        "tp1": 256.66,
+        "tp2": 262.94,
+        "sl": 240.96
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "PSA",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -75.7,
+      "rs_rank": 63,
+      "zones": {
+        "entry": 318.9,
+        "tp1": 325.82,
+        "tp2": 332.74,
+        "sl": 308.52
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
     {
       "ticker": "FCX",
       "composite": 76,
       "prob": 95,
       "buffett": 70,
       "mos": -65.7,
-      "rs_rank": 64,
+      "rs_rank": 78,
       "zones": {
         "entry": 69.15,
         "tp1": 72.41,
@@ -39,7 +99,7 @@
       "prob": 95,
       "buffett": 70,
       "mos": -65.7,
-      "rs_rank": 0,
+      "rs_rank": 78,
       "zones": {
         "entry": 69.15,
         "tp1": 72.41,
@@ -63,6 +123,12 @@
       ]
     },
     {
+      "ticker": "QCOM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SPG",
       "failed": [
         "Analysis"
@@ -75,7 +141,43 @@
       ]
     },
     {
+      "ticker": "TROW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TER",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TXN",
       "failed": [
         "Radar"
       ]
@@ -93,33 +195,15 @@
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "STLD",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "CNI",
+      "ticker": "MPWR",
       "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "GE",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ESS",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "MAR",
-      "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
