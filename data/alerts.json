@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-06-17 17:46:23 (Hora Colombia)",
+  "checked_at": "2026-06-17 18:11:54 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,40 +10,20 @@
     "drawdown_52w_pct": -2.45,
     "realized_vol_20d": 16.4
   },
-  "confirmed": 4,
+  "confirmed": 2,
   "signals": [
-    {
-      "ticker": "INCY",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -34.4,
-      "rs_rank": 57,
-      "zones": {
-        "entry": 100.81,
-        "tp1": 104.72,
-        "tp2": 108.63,
-        "sl": 94.95
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
     {
       "ticker": "ITIC",
       "composite": 81,
       "prob": 95,
       "buffett": 75,
-      "mos": 1.3,
-      "rs_rank": 65,
+      "mos": 0.7,
+      "rs_rank": 67,
       "zones": {
-        "entry": 250.38,
-        "tp1": 256.66,
-        "tp2": 262.94,
-        "sl": 240.96
+        "entry": 252.19,
+        "tp1": 258.28,
+        "tp2": 264.37,
+        "sl": 243.06
       },
       "periods": [
         "1 Semana",
@@ -54,47 +34,30 @@
       ]
     },
     {
-      "ticker": "PSA",
-      "composite": 81,
+      "ticker": "WST",
+      "composite": 75,
       "prob": 95,
       "buffett": 70,
-      "mos": -75.7,
-      "rs_rank": 63,
+      "mos": -74.4,
+      "rs_rank": 90,
       "zones": {
-        "entry": 318.9,
-        "tp1": 325.82,
-        "tp2": 332.74,
-        "sl": 308.52
+        "entry": 327.07,
+        "tp1": 335.43,
+        "tp2": 343.79,
+        "sl": 314.53
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "FCX",
-      "composite": 76,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -65.7,
-      "rs_rank": 78,
-      "zones": {
-        "entry": 69.15,
-        "tp1": 72.41,
-        "tp2": 75.67,
-        "sl": 64.26
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "1 Mes"
       ]
     }
   ],
   "watchlist": [
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
     {
       "ticker": "BVN",
       "failed": [
@@ -108,7 +71,7 @@
       ]
     },
     {
-      "ticker": "SPG",
+      "ticker": "THG",
       "failed": [
         "Analysis"
       ]
@@ -162,6 +125,12 @@
       ]
     },
     {
+      "ticker": "FNV",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "STRL",
       "failed": [
         "Radar"
@@ -169,18 +138,6 @@
     },
     {
       "ticker": "HUBB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CAT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "FCX",
       "failed": [
         "Radar"
       ]
