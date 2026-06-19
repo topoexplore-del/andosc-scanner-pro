@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-06-18 18:30:41 (Hora Colombia)",
+  "checked_at": "2026-06-19 12:21:01 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
     "spy_price": 746.74,
-    "spy_sma200": 686.24,
-    "spy_vs_sma200_pct": 8.82,
-    "drawdown_52w_pct": -1.69,
-    "realized_vol_20d": 16.2
+    "spy_sma200": 684.49,
+    "spy_vs_sma200_pct": 9.09,
+    "drawdown_52w_pct": -1.44,
+    "realized_vol_20d": 16.4
   },
-  "confirmed": 9,
+  "confirmed": 10,
   "signals": [
     {
       "ticker": "TROW",
@@ -46,6 +46,27 @@
         "sl": 245.28
       },
       "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -84.4,
+      "rs_rank": 67,
+      "zones": {
+        "entry": 167.31,
+        "tp1": 175.19,
+        "tp2": 183.07,
+        "sl": 155.49
+      },
+      "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -93,21 +114,19 @@
       ]
     },
     {
-      "ticker": "FCX",
-      "composite": 76,
+      "ticker": "MPWR",
+      "composite": 75,
       "prob": 95,
-      "buffett": 70,
-      "mos": -65.2,
-      "rs_rank": 83,
+      "buffett": 85,
+      "mos": -90.2,
+      "rs_rank": 81,
       "zones": {
-        "entry": 68.11,
-        "tp1": 71.29,
-        "tp2": 74.47,
-        "sl": 63.34
+        "entry": 1533.02,
+        "tp1": 1635.3,
+        "tp2": 1737.58,
+        "sl": 1379.6
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
@@ -222,12 +241,6 @@
       ]
     },
     {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "LRCX",
       "failed": [
         "Radar"
@@ -273,6 +286,12 @@
       "ticker": "RL",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "failed": [
+        "Radar"
       ]
     },
     {
