@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-06-22 18:16:53 (Hora Colombia)",
+  "checked_at": "2026-06-23 12:19:32 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 744.39,
-    "spy_sma200": 685.03,
-    "spy_vs_sma200_pct": 8.67,
-    "drawdown_52w_pct": -1.75,
-    "realized_vol_20d": 16.4
+    "spy_price": 737.14,
+    "spy_sma200": 685.5,
+    "spy_vs_sma200_pct": 7.53,
+    "drawdown_52w_pct": -2.7,
+    "realized_vol_20d": 16.7
   },
-  "confirmed": 11,
+  "confirmed": 10,
   "signals": [
     {
       "ticker": "ITIC",
@@ -57,13 +57,13 @@
       "composite": 80,
       "prob": 95,
       "buffett": 70,
-      "mos": -84.4,
-      "rs_rank": 81,
+      "mos": -84.8,
+      "rs_rank": 64,
       "zones": {
-        "entry": 167.31,
-        "tp1": 175.19,
-        "tp2": 183.07,
-        "sl": 155.49
+        "entry": 172.18,
+        "tp1": 180.11,
+        "tp2": 188.04,
+        "sl": 160.28
       },
       "periods": [
         "1 Semana",
@@ -111,25 +111,6 @@
         "1 Mes",
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "composite": 75,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -90.2,
-      "rs_rank": 90,
-      "zones": {
-        "entry": 1533.02,
-        "tp1": 1635.3,
-        "tp2": 1737.58,
-        "sl": 1379.6
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
       ]
     },
     {
