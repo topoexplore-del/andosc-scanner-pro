@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-01 17:19:18 (Hora Colombia)",
+  "checked_at": "2026-07-01 18:00:05 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,26 +13,28 @@
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "HXL",
-      "composite": 56,
+      "ticker": "FMX",
+      "composite": 66,
       "prob": 95,
-      "buffett": 25,
-      "mos": -75.8,
-      "rs_rank": 77,
+      "buffett": 30,
+      "mos": -53.0,
+      "rs_rank": 71,
       "zones": {
-        "entry": 97.92,
-        "tp1": 101.14,
-        "tp2": 104.36,
-        "sl": 93.09
+        "entry": 126.93,
+        "tp1": 130.17,
+        "tp2": 133.41,
+        "sl": 122.07
       },
       "periods": [
-        "3 Meses"
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
     {
-      "ticker": "BWMX",
+      "ticker": "ALL",
       "failed": [
         "Analysis"
       ]
@@ -44,6 +46,24 @@
       ]
     },
     {
+      "ticker": "TSM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PAC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "TROW",
       "failed": [
         "Radar"
@@ -51,18 +71,6 @@
     },
     {
       "ticker": "ITIC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PODD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TSM",
       "failed": [
         "Radar"
       ]
@@ -86,37 +94,31 @@
       ]
     },
     {
+      "ticker": "TXN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "HUBB",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "OKE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "GRMN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BRO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ABNB",
+      "ticker": "ITUB",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "WMB",
+      "ticker": "ITW",
       "failed": [
         "Analysis"
       ]
