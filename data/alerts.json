@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-02 17:09:28 (Hora Colombia)",
+  "checked_at": "2026-07-02 17:52:16 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,7 +10,7 @@
     "drawdown_52w_pct": -1.69,
     "realized_vol_20d": 18.1
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "FMX",
@@ -18,12 +18,32 @@
       "prob": 95,
       "buffett": 30,
       "mos": -53.0,
-      "rs_rank": 71,
+      "rs_rank": 70,
       "zones": {
-        "entry": 126.93,
-        "tp1": 130.17,
-        "tp2": 133.41,
-        "sl": 122.07
+        "entry": 127.13,
+        "tp1": 130.4,
+        "tp2": 133.67,
+        "sl": 122.22
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "IEX",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -59.6,
+      "rs_rank": 73,
+      "zones": {
+        "entry": 223.43,
+        "tp1": 228.53,
+        "tp2": 233.63,
+        "sl": 215.78
       },
       "periods": [
         "1 Mes",
@@ -34,33 +54,15 @@
   ],
   "watchlist": [
     {
-      "ticker": "ALL",
+      "ticker": "META",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
       "ticker": "INCY",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "TSM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PAC",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -71,6 +73,12 @@
     },
     {
       "ticker": "ITIC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PODD",
       "failed": [
         "Radar"
       ]
@@ -94,31 +102,43 @@
       ]
     },
     {
-      "ticker": "TXN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "LLY",
+      "ticker": "SAN",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "HUBB",
+      "ticker": "SPGI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ITUB",
+      "ticker": "JPM",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "ITW",
+      "ticker": "VEEV",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALGN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DE",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "KDP",
       "failed": [
         "Analysis"
       ]
