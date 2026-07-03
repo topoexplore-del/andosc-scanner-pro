@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-02 17:52:16 (Hora Colombia)",
+  "checked_at": "2026-07-03 11:26:47 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -132,13 +132,13 @@
       ]
     },
     {
-      "ticker": "DE",
+      "ticker": "KDP",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "KDP",
+      "ticker": "APD",
       "failed": [
         "Analysis"
       ]
