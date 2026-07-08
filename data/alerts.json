@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-07-07 17:51:50 (Hora Colombia)",
+  "checked_at": "2026-07-08 11:41:26 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 747.71,
-    "spy_sma200": 689.71,
-    "spy_vs_sma200_pct": 8.41,
-    "drawdown_52w_pct": -1.31,
-    "realized_vol_20d": 15.8
+    "spy_price": 744.14,
+    "spy_sma200": 690.15,
+    "spy_vs_sma200_pct": 7.82,
+    "drawdown_52w_pct": -1.78,
+    "realized_vol_20d": 15.9
   },
   "confirmed": 3,
   "signals": [
@@ -141,6 +141,12 @@
     },
     {
       "ticker": "RTX",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AMD",
       "failed": [
         "Analysis"
       ]
