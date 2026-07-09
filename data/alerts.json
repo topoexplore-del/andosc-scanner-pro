@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-09 17:24:19 (Hora Colombia)",
+  "checked_at": "2026-07-09 18:01:17 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,20 +10,41 @@
     "drawdown_52w_pct": -0.78,
     "realized_vol_20d": 16.0
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
+    {
+      "ticker": "CF",
+      "composite": 100,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -20.3,
+      "rs_rank": 13,
+      "zones": {
+        "entry": 115.76,
+        "tp1": 119.95,
+        "tp2": 124.14,
+        "sl": 109.48
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
     {
       "ticker": "HXL",
       "composite": 56,
       "prob": 95,
       "buffett": 25,
-      "mos": -76.1,
-      "rs_rank": 85,
+      "mos": -75.8,
+      "rs_rank": 83,
       "zones": {
-        "entry": 99.16,
-        "tp1": 102.32,
-        "tp2": 105.48,
-        "sl": 94.42
+        "entry": 97.6,
+        "tp1": 100.71,
+        "tp2": 103.82,
+        "sl": 92.93
       },
       "periods": [
         "3 Meses"
@@ -31,12 +52,6 @@
     }
   ],
   "watchlist": [
-    {
-      "ticker": "CF",
-      "failed": [
-        "Radar"
-      ]
-    },
     {
       "ticker": "INCY",
       "failed": [
@@ -68,27 +83,21 @@
       ]
     },
     {
+      "ticker": "0700.HK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "TXN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "OKE",
+      "ticker": "GRMN",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "MTCH",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PPG",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -98,25 +107,31 @@
       ]
     },
     {
-      "ticker": "SPGI",
+      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ALGN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VNO",
+      "ticker": "JPM",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "D",
+      "ticker": "YUM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BCS",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ESS",
       "failed": [
         "Analysis"
       ]
