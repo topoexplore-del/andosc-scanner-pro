@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-10 17:05:47 (Hora Colombia)",
+  "checked_at": "2026-07-10 17:45:39 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,48 +10,21 @@
     "drawdown_52w_pct": -0.35,
     "realized_vol_20d": 14.8
   },
-  "confirmed": 2,
-  "signals": [
+  "confirmed": 0,
+  "signals": [],
+  "watchlist": [
     {
       "ticker": "CF",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -20.3,
-      "rs_rank": 13,
-      "zones": {
-        "entry": 115.76,
-        "tp1": 119.95,
-        "tp2": 124.14,
-        "sl": 109.48
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+      "failed": [
+        "Radar"
       ]
     },
     {
-      "ticker": "HXL",
-      "composite": 56,
-      "prob": 95,
-      "buffett": 25,
-      "mos": -75.8,
-      "rs_rank": 83,
-      "zones": {
-        "entry": 97.6,
-        "tp1": 100.71,
-        "tp2": 103.82,
-        "sl": 92.93
-      },
-      "periods": [
-        "3 Meses"
+      "ticker": "META",
+      "failed": [
+        "Radar"
       ]
-    }
-  ],
-  "watchlist": [
+    },
     {
       "ticker": "INCY",
       "failed": [
@@ -59,7 +32,19 @@
       ]
     },
     {
+      "ticker": "TSM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VRTX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
@@ -95,45 +80,27 @@
       ]
     },
     {
-      "ticker": "GRMN",
+      "ticker": "ITUB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AXP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CIEN",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "SAN",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SQM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "YUM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BCS",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ESS",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
