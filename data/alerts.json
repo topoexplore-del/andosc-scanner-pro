@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-13 16:59:06 (Hora Colombia)",
+  "checked_at": "2026-07-13 17:40:38 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -15,6 +15,12 @@
   "watchlist": [
     {
       "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NEM",
       "failed": [
         "Radar"
       ]
@@ -38,21 +44,15 @@
       ]
     },
     {
-      "ticker": "TSM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VRTX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "MU",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "CB",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -68,13 +68,31 @@
       ]
     },
     {
+      "ticker": "A",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ANET",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "0700.HK",
+      "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TER",
       "failed": [
         "Radar"
       ]
@@ -83,24 +101,6 @@
       "ticker": "TXN",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "ITUB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "AXP",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
