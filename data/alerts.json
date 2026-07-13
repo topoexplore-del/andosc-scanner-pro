@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-07-10 17:45:39 (Hora Colombia)",
+  "checked_at": "2026-07-13 12:13:47 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 754.95,
-    "spy_sma200": 691.09,
-    "spy_vs_sma200_pct": 9.24,
-    "drawdown_52w_pct": -0.35,
-    "realized_vol_20d": 14.8
+    "spy_price": 750.29,
+    "spy_sma200": 691.56,
+    "spy_vs_sma200_pct": 8.49,
+    "drawdown_52w_pct": -0.97,
+    "realized_vol_20d": 13.9
   },
   "confirmed": 0,
   "signals": [],
@@ -27,6 +27,12 @@
     },
     {
       "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
       "failed": [
         "Radar"
       ]
@@ -95,12 +101,6 @@
       "ticker": "AXP",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "failed": [
-        "Radar"
       ]
     }
   ]
