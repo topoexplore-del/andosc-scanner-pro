@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-15 17:03:04 (Hora Colombia)",
+  "checked_at": "2026-07-15 17:43:54 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -38,9 +38,9 @@
       ]
     },
     {
-      "ticker": "V",
+      "ticker": "MU",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -74,31 +74,31 @@
       ]
     },
     {
-      "ticker": "INTU",
+      "ticker": "TXN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ABNB",
+      "ticker": "JPM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AXP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "MS",
       "failed": [
         "Analysis"
       ]
     },
     {
       "ticker": "SPGI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HPQ",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "CIEN",
       "failed": [
         "Radar"
       ]
