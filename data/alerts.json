@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-16 17:05:17 (Hora Colombia)",
+  "checked_at": "2026-07-16 17:41:08 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -26,6 +26,12 @@
       ]
     },
     {
+      "ticker": "META",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "INCY",
       "failed": [
         "Radar"
@@ -38,7 +44,19 @@
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "GOOGL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "GOOG",
       "failed": [
         "Radar"
       ]
@@ -62,45 +80,27 @@
       ]
     },
     {
-      "ticker": "AMAT",
+      "ticker": "0700.HK",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "TXN",
+      "ticker": "NYT",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "JPM",
+      "ticker": "BX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SAN",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "AXP",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "MS",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SPGI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "failed": [
-        "Radar"
       ]
     }
   ]
