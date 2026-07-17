@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-17 16:55:47 (Hora Colombia)",
+  "checked_at": "2026-07-17 17:38:43 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,11 +10,36 @@
     "drawdown_52w_pct": -1.89,
     "realized_vol_20d": 12.2
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "IEX",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -60.3,
+      "rs_rank": 78,
+      "zones": {
+        "entry": 227.51,
+        "tp1": 232.35,
+        "tp2": 237.19,
+        "sl": 220.25
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
@@ -26,19 +51,7 @@
       ]
     },
     {
-      "ticker": "META",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "INCY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
       "failed": [
         "Radar"
       ]
@@ -50,9 +63,15 @@
       ]
     },
     {
-      "ticker": "GOOG",
+      "ticker": "AFL",
       "failed": [
-        "Radar"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CB",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -86,19 +105,19 @@
       ]
     },
     {
-      "ticker": "BX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SAN",
+      "ticker": "JPM",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "MS",
+      "ticker": "BBVA",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ITW",
       "failed": [
         "Analysis"
       ]
