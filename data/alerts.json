@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-21 17:05:22 (Hora Colombia)",
+  "checked_at": "2026-07-21 17:41:52 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,20 +10,20 @@
     "drawdown_52w_pct": -1.23,
     "realized_vol_20d": 12.0
   },
-  "confirmed": 2,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "CF",
       "composite": 100,
       "prob": 95,
       "buffett": 85,
-      "mos": -23.2,
-      "rs_rank": 35,
+      "mos": -24.6,
+      "rs_rank": 73,
       "zones": {
-        "entry": 120.16,
-        "tp1": 124.35,
-        "tp2": 128.54,
-        "sl": 113.88
+        "entry": 122.3,
+        "tp1": 126.52,
+        "tp2": 130.74,
+        "sl": 115.97
       },
       "periods": [
         "1 Semana",
@@ -34,22 +34,55 @@
       ]
     },
     {
-      "ticker": "INCY",
-      "composite": 90,
+      "ticker": "WST",
+      "composite": 75,
       "prob": 95,
-      "buffett": 90,
-      "mos": -42.9,
-      "rs_rank": 88,
+      "buffett": 70,
+      "mos": -76.1,
+      "rs_rank": 94,
       "zones": {
-        "entry": 116.19,
-        "tp1": 119.74,
-        "tp2": 123.29,
-        "sl": 110.86
+        "entry": 349.93,
+        "tp1": 357.89,
+        "tp2": 365.85,
+        "sl": 337.99
       },
       "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "SNA",
+      "composite": 69,
+      "prob": 95,
+      "buffett": 95,
+      "mos": -45.0,
+      "rs_rank": 68,
+      "zones": {
+        "entry": 404.08,
+        "tp1": 412.24,
+        "tp2": 420.4,
+        "sl": 391.84
+      },
+      "periods": [
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "HXL",
+      "composite": 56,
+      "prob": 95,
+      "buffett": 25,
+      "mos": -77.4,
+      "rs_rank": 87,
+      "zones": {
+        "entry": 104.79,
+        "tp1": 107.91,
+        "tp2": 111.03,
+        "sl": 100.11
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
       ]
     }
   ],
@@ -67,21 +100,21 @@
       ]
     },
     {
-      "ticker": "VRTX",
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "AFL",
+      "ticker": "ACN",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
-      "ticker": "CB",
+      "ticker": "VRTX",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -103,25 +136,31 @@
       ]
     },
     {
+      "ticker": "PODD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "NYT",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ITW",
+      "ticker": "IFS",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "PBR",
+      "ticker": "HAL",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
-      "ticker": "WRB",
+      "ticker": "SCHW",
       "failed": [
         "Analysis"
       ]
@@ -136,12 +175,6 @@
       "ticker": "SPGI",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "HPQ",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
