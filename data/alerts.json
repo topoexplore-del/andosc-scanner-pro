@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-07-22 17:52:02 (Hora Colombia)",
+  "checked_at": "2026-07-23 11:28:38 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 747.41,
-    "spy_sma200": 694.69,
-    "spy_vs_sma200_pct": 7.59,
-    "drawdown_52w_pct": -1.35,
-    "realized_vol_20d": 10.7
+    "spy_price": 739.43,
+    "spy_sma200": 695.07,
+    "spy_vs_sma200_pct": 6.38,
+    "drawdown_52w_pct": -2.4,
+    "realized_vol_20d": 11.4
   },
-  "confirmed": 3,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "INCY",
@@ -30,6 +30,26 @@
         "1 Mes",
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -83.8,
+      "rs_rank": 61,
+      "zones": {
+        "entry": 209.85,
+        "tp1": 217.2,
+        "tp2": 224.55,
+        "sl": 198.82
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     },
     {
@@ -147,13 +167,13 @@
       ]
     },
     {
-      "ticker": "ITW",
+      "ticker": "FCX",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
-      "ticker": "MET",
+      "ticker": "ITW",
       "failed": [
         "Analysis"
       ]
