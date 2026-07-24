@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-24 17:06:14 (Hora Colombia)",
+  "checked_at": "2026-07-24 17:47:46 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,41 +10,24 @@
     "drawdown_52w_pct": -2.47,
     "realized_vol_20d": 11.7
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
-      "ticker": "SNA",
-      "composite": 69,
+      "ticker": "GD",
+      "composite": 75,
       "prob": 95,
-      "buffett": 95,
-      "mos": -44.9,
-      "rs_rank": 64,
+      "buffett": 50,
+      "mos": -51.3,
+      "rs_rank": 87,
       "zones": {
-        "entry": 403.76,
-        "tp1": 411.8,
-        "tp2": 419.84,
-        "sl": 391.7
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "HXL",
-      "composite": 56,
-      "prob": 95,
-      "buffett": 25,
-      "mos": -77.6,
-      "rs_rank": 89,
-      "zones": {
-        "entry": 105.66,
-        "tp1": 108.85,
-        "tp2": 112.04,
-        "sl": 100.88
+        "entry": 379.29,
+        "tp1": 387.62,
+        "tp2": 395.95,
+        "sl": 366.8
       },
       "periods": [
         "1 Semana",
+        "1 Mes",
         "3 Meses"
       ]
     }
@@ -87,13 +70,13 @@
       ]
     },
     {
-      "ticker": "NVDA",
+      "ticker": "NEM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "VRTX",
+      "ticker": "NVDA",
       "failed": [
         "Radar"
       ]
@@ -135,9 +118,9 @@
       ]
     },
     {
-      "ticker": "ITUB",
+      "ticker": "FCX",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
