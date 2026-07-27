@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-27 17:09:51 (Hora Colombia)",
+  "checked_at": "2026-07-27 17:45:54 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -18,7 +18,7 @@
       "prob": 95,
       "buffett": 50,
       "mos": -51.3,
-      "rs_rank": 87,
+      "rs_rank": 42,
       "zones": {
         "entry": 379.29,
         "tp1": 387.62,
@@ -118,9 +118,9 @@
       ]
     },
     {
-      "ticker": "FCX",
+      "ticker": "URI",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
