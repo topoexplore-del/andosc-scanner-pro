@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-04 17:52:13 (Hora Colombia)",
+  "checked_at": "2026-08-05 11:43:33 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 771.33,
-    "spy_sma200": 698.47,
-    "spy_vs_sma200_pct": 10.43,
+    "spy_price": 771.64,
+    "spy_sma200": 699.05,
+    "spy_vs_sma200_pct": 10.38,
     "drawdown_52w_pct": 0.0,
-    "realized_vol_20d": 14.5
+    "realized_vol_20d": 14.4
   },
-  "confirmed": 5,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "VLO",
@@ -47,27 +47,6 @@
       },
       "periods": [
         "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.7,
-      "rs_rank": 60,
-      "zones": {
-        "entry": 181.75,
-        "tp1": 192.21,
-        "tp2": 202.67,
-        "sl": 166.06
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
@@ -166,12 +145,6 @@
       ]
     },
     {
-      "ticker": "LMT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "NVDA",
       "failed": [
         "Radar"
@@ -199,6 +172,12 @@
       "ticker": "AFL",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
       ]
     }
   ]
