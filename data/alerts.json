@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-10 16:42:58 (Hora Colombia)",
+  "checked_at": "2026-08-10 17:19:09 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,87 +10,8 @@
     "drawdown_52w_pct": -0.03,
     "realized_vol_20d": 14.0
   },
-  "confirmed": 4,
-  "signals": [
-    {
-      "ticker": "VLO",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -31.3,
-      "rs_rank": 93,
-      "zones": {
-        "entry": 299.63,
-        "tp1": 310.84,
-        "tp2": 322.05,
-        "sl": 282.81
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "EC",
-      "composite": 91,
-      "prob": 95,
-      "buffett": 60,
-      "mos": 300.0,
-      "rs_rank": 93,
-      "zones": {
-        "entry": 17.21,
-        "tp1": 17.84,
-        "tp2": 18.47,
-        "sl": 16.27
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "FAST",
-      "composite": 74,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -81.0,
-      "rs_rank": 79,
-      "zones": {
-        "entry": 50.4,
-        "tp1": 51.72,
-        "tp2": 53.04,
-        "sl": 48.42
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes"
-      ]
-    },
-    {
-      "ticker": "EMR",
-      "composite": 60,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -60.9,
-      "rs_rank": 61,
-      "zones": {
-        "entry": 155.36,
-        "tp1": 160.52,
-        "tp2": 165.68,
-        "sl": 147.62
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "BVN",
@@ -99,15 +20,15 @@
       ]
     },
     {
-      "ticker": "VIST",
+      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "HON",
+      "ticker": "STZ",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -117,7 +38,25 @@
       ]
     },
     {
+      "ticker": "EC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "RIO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
@@ -147,9 +86,9 @@
       ]
     },
     {
-      "ticker": "TJX",
+      "ticker": "BX",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -159,25 +98,7 @@
       ]
     },
     {
-      "ticker": "AFL",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "SHEL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "A",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DVN",
       "failed": [
         "Radar"
       ]
