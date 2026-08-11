@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-08-10 17:19:09 (Hora Colombia)",
+  "checked_at": "2026-08-11 11:02:05 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 773.03,
-    "spy_sma200": 700.67,
-    "spy_vs_sma200_pct": 10.33,
-    "drawdown_52w_pct": -0.03,
+    "spy_price": 772.2,
+    "spy_sma200": 701.22,
+    "spy_vs_sma200_pct": 10.12,
+    "drawdown_52w_pct": -0.14,
     "realized_vol_20d": 14.0
   },
   "confirmed": 0,
@@ -80,12 +80,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "BX",
       "failed": [
         "Radar"
@@ -99,6 +93,12 @@
     },
     {
       "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DVN",
       "failed": [
         "Radar"
       ]
