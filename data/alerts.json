@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-08-13 11:00:09 (Hora Colombia)",
+  "checked_at": "2026-08-13 14:04:29 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 775.41,
-    "spy_sma200": 702.26,
-    "spy_vs_sma200_pct": 10.42,
+    "spy_price": 777.92,
+    "spy_sma200": 702.27,
+    "spy_vs_sma200_pct": 10.77,
     "drawdown_52w_pct": 0.0,
-    "realized_vol_20d": 13.9
+    "realized_vol_20d": 14.0
   },
   "confirmed": 1,
   "signals": [
@@ -102,12 +102,6 @@
       ]
     },
     {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "TSM",
       "failed": [
         "Radar"
@@ -121,6 +115,12 @@
     },
     {
       "ticker": "GRMN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SHEL",
       "failed": [
         "Radar"
       ]
