@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-20 16:29:43 (Hora Colombia)",
+  "checked_at": "2026-08-20 17:06:14 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,23 +10,22 @@
     "drawdown_52w_pct": -1.96,
     "realized_vol_20d": 13.2
   },
-  "confirmed": 3,
+  "confirmed": 4,
   "signals": [
     {
-      "ticker": "EC",
+      "ticker": "RIO",
       "composite": 91,
       "prob": 95,
-      "buffett": 60,
-      "mos": 300.0,
-      "rs_rank": 92,
+      "buffett": 75,
+      "mos": -18.6,
+      "rs_rank": 20,
       "zones": {
-        "entry": 17.51,
-        "tp1": 18.09,
-        "tp2": 18.67,
-        "sl": 16.64
+        "entry": 99.75,
+        "tp1": 102.05,
+        "tp2": 104.35,
+        "sl": 96.3
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -34,36 +33,57 @@
       ]
     },
     {
-      "ticker": "VRTX",
-      "composite": 73,
+      "ticker": "ITIC",
+      "composite": 75,
       "prob": 95,
       "buffett": 85,
-      "mos": -66.7,
-      "rs_rank": 84,
+      "mos": -7.7,
+      "rs_rank": 85,
       "zones": {
-        "entry": 523.49,
-        "tp1": 539.17,
-        "tp2": 554.85,
-        "sl": 499.97
+        "entry": 290.01,
+        "tp1": 297.95,
+        "tp2": 305.89,
+        "sl": 278.1
       },
       "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "composite": 65,
+      "prob": 95,
+      "buffett": 45,
+      "mos": -32.0,
+      "rs_rank": 7,
+      "zones": {
+        "entry": 34.73,
+        "tp1": 35.7,
+        "tp2": 36.67,
+        "sl": 33.27
+      },
+      "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
     },
     {
-      "ticker": "XOM",
-      "composite": 71,
+      "ticker": "KOF",
+      "composite": 60,
       "prob": 95,
-      "buffett": 30,
-      "mos": -36.6,
-      "rs_rank": 48,
+      "buffett": 55,
+      "mos": null,
+      "rs_rank": 61,
       "zones": {
-        "entry": 164.47,
-        "tp1": 168.12,
-        "tp2": 171.77,
-        "sl": 159.0
+        "entry": 112.49,
+        "tp1": 114.96,
+        "tp2": 117.43,
+        "sl": 108.78
       },
       "periods": [
         "1 Semana",
@@ -110,7 +130,13 @@
       ]
     },
     {
-      "ticker": "RIO",
+      "ticker": "EC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AA",
       "failed": [
         "Radar"
       ]
@@ -122,19 +148,25 @@
       ]
     },
     {
+      "ticker": "AEM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ACN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "BBY",
+      "ticker": "NVDA",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
-      "ticker": "NVDA",
+      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
@@ -147,18 +179,6 @@
     },
     {
       "ticker": "GRMN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "THG",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SHEL",
       "failed": [
         "Radar"
       ]
