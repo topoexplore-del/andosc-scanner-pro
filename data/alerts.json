@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-28 18:53:48 (Hora Colombia)",
+  "checked_at": "2026-08-28 22:26:52 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -17,8 +17,8 @@
       "composite": 100,
       "prob": 95,
       "buffett": 90,
-      "mos": 9.6,
-      "rs_rank": 53,
+      "mos": 9.4,
+      "rs_rank": 54,
       "zones": {
         "entry": 35.85,
         "tp1": 37.34,
@@ -57,7 +57,7 @@
       "prob": 95,
       "buffett": 70,
       "mos": -85.6,
-      "rs_rank": 97,
+      "rs_rank": 92,
       "zones": {
         "entry": 198.4,
         "tp1": 207.37,
@@ -129,12 +129,6 @@
       ]
     },
     {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NVDA",
       "failed": [
         "Radar"
@@ -159,9 +153,15 @@
       ]
     },
     {
-      "ticker": "CRM",
+      "ticker": "DVN",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "WMB",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
