@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-31 19:25:58 (Hora Colombia)",
+  "checked_at": "2026-08-31 19:54:29 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -17,16 +17,15 @@
       "composite": 100,
       "prob": 95,
       "buffett": 90,
-      "mos": 9.4,
-      "rs_rank": 54,
+      "mos": 13.1,
+      "rs_rank": 29,
       "zones": {
-        "entry": 35.85,
-        "tp1": 37.34,
-        "tp2": 38.83,
-        "sl": 33.62
+        "entry": 34.66,
+        "tp1": 36.2,
+        "tp2": 37.74,
+        "sl": 32.35
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -34,19 +33,20 @@
       ]
     },
     {
-      "ticker": "SHEL",
-      "composite": 81,
+      "ticker": "A",
+      "composite": 69,
       "prob": 95,
-      "buffett": 50,
-      "mos": 26.7,
-      "rs_rank": 68,
+      "buffett": 85,
+      "mos": -64.5,
+      "rs_rank": 77,
       "zones": {
-        "entry": 90.27,
-        "tp1": 91.69,
-        "tp2": 93.11,
-        "sl": 88.14
+        "entry": 152.51,
+        "tp1": 156.93,
+        "tp2": 161.35,
+        "sl": 145.88
       },
       "periods": [
+        "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
@@ -67,12 +67,6 @@
     },
     {
       "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VIST",
       "failed": [
         "Radar"
       ]
@@ -108,6 +102,18 @@
       ]
     },
     {
+      "ticker": "AEM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "QSR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "failed": [
         "Radar"
@@ -126,21 +132,15 @@
       ]
     },
     {
+      "ticker": "DXCM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "MU",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "DVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WMB",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
