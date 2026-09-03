@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-02 18:42:45 (Hora Colombia)",
+  "checked_at": "2026-09-03 13:23:52 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 765.16,
-    "spy_sma200": 708.78,
-    "spy_vs_sma200_pct": 7.95,
-    "drawdown_52w_pct": -1.64,
-    "realized_vol_20d": 7.4
+    "spy_price": 773.61,
+    "spy_sma200": 709.32,
+    "spy_vs_sma200_pct": 9.06,
+    "drawdown_52w_pct": -0.55,
+    "realized_vol_20d": 8.4
   },
-  "confirmed": 5,
+  "confirmed": 6,
   "signals": [
     {
       "ticker": "EC",
@@ -47,6 +47,26 @@
       },
       "periods": [
         "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -81.7,
+      "rs_rank": 72,
+      "zones": {
+        "entry": 222.14,
+        "tp1": 229.72,
+        "tp2": 237.3,
+        "sl": 210.77
+      },
+      "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
@@ -176,12 +196,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "DXCM",
       "failed": [
         "Analysis"
@@ -197,6 +211,12 @@
       "ticker": "DVN",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "WMB",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
