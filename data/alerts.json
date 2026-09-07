@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04 18:23:03 (Hora Colombia)",
+  "checked_at": "2026-09-07 14:02:12 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -37,15 +37,16 @@
       "composite": 85,
       "prob": 95,
       "buffett": 85,
-      "mos": -82.0,
-      "rs_rank": 58,
+      "mos": -82.2,
+      "rs_rank": 78,
       "zones": {
-        "entry": 226.21,
-        "tp1": 233.67,
-        "tp2": 241.13,
-        "sl": 215.02
+        "entry": 228.15,
+        "tp1": 235.53,
+        "tp2": 242.91,
+        "sl": 217.08
       },
       "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
