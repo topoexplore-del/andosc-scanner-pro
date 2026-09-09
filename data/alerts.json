@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09 18:01:05 (Hora Colombia)",
+  "checked_at": "2026-09-09 18:37:21 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,41 +10,20 @@
     "drawdown_52w_pct": -1.99,
     "realized_vol_20d": 8.4
   },
-  "confirmed": 6,
+  "confirmed": 5,
   "signals": [
-    {
-      "ticker": "CF",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 100,
-      "mos": -19.6,
-      "rs_rank": 84,
-      "zones": {
-        "entry": 131.75,
-        "tp1": 137.09,
-        "tp2": 142.43,
-        "sl": 123.74
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
     {
       "ticker": "EC",
       "composite": 91,
       "prob": 95,
       "buffett": 60,
       "mos": 300.0,
-      "rs_rank": 77,
+      "rs_rank": 82,
       "zones": {
-        "entry": 17.08,
-        "tp1": 17.64,
-        "tp2": 18.2,
-        "sl": 16.24
+        "entry": 17.61,
+        "tp1": 18.17,
+        "tp2": 18.73,
+        "sl": 16.77
       },
       "periods": [
         "1 Semana",
@@ -54,24 +33,43 @@
       ]
     },
     {
-      "ticker": "MU",
-      "composite": 84,
+      "ticker": "SQM",
+      "composite": 90,
       "prob": 95,
-      "buffett": 85,
-      "mos": -70.7,
-      "rs_rank": 83,
+      "buffett": 100,
+      "mos": -35.0,
+      "rs_rank": 62,
       "zones": {
-        "entry": 1000.14,
-        "tp1": 1054.98,
-        "tp2": 1109.82,
-        "sl": 917.88
+        "entry": 74.84,
+        "tp1": 77.56,
+        "tp2": 80.28,
+        "sl": 70.76
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 20.5,
+      "rs_rank": 73,
+      "zones": {
+        "entry": 94.86,
+        "tp1": 96.38,
+        "tp2": 97.9,
+        "sl": 92.58
       },
       "periods": [
         "1 Semana",
         "1 Mes",
         "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "6 Meses"
       ]
     },
     {
@@ -79,13 +77,13 @@
       "composite": 75,
       "prob": 95,
       "buffett": 25,
-      "mos": -27.9,
-      "rs_rank": 68,
+      "mos": -29.4,
+      "rs_rank": 76,
       "zones": {
-        "entry": 94.71,
-        "tp1": 97.1,
-        "tp2": 99.49,
-        "sl": 91.12
+        "entry": 96.78,
+        "tp1": 99.2,
+        "tp2": 101.62,
+        "sl": 93.15
       },
       "periods": [
         "1 Mes",
@@ -94,43 +92,21 @@
       ]
     },
     {
-      "ticker": "MDT",
+      "ticker": "CVX",
       "composite": 71,
       "prob": 95,
-      "buffett": 70,
-      "mos": -36.9,
-      "rs_rank": 81,
+      "buffett": 60,
+      "mos": -28.3,
+      "rs_rank": 75,
       "zones": {
-        "entry": 93.49,
-        "tp1": 95.77,
-        "tp2": 98.05,
-        "sl": 90.07
+        "entry": 208.61,
+        "tp1": 212.59,
+        "tp2": 216.57,
+        "sl": 202.64
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "HAL",
-      "composite": 65,
-      "prob": 95,
-      "buffett": 45,
-      "mos": -35.7,
-      "rs_rank": 25,
-      "zones": {
-        "entry": 36.76,
-        "tp1": 37.8,
-        "tp2": 38.84,
-        "sl": 35.2
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
+        "3 Meses"
       ]
     }
   ],
@@ -143,6 +119,12 @@
     },
     {
       "ticker": "EOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CF",
       "failed": [
         "Radar"
       ]
@@ -172,7 +154,7 @@
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "AA",
       "failed": [
         "Radar"
       ]
@@ -196,18 +178,6 @@
       ]
     },
     {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "QSR",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "NVDA",
       "failed": [
         "Radar"
@@ -215,6 +185,12 @@
     },
     {
       "ticker": "TSM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
