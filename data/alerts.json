@@ -1,95 +1,17 @@
 {
-  "checked_at": "2026-09-21 18:53:50 (Hora Colombia)",
+  "checked_at": "2026-09-21 19:25:11 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 773.5,
-    "spy_sma200": 712.98,
-    "spy_vs_sma200_pct": 8.49,
-    "drawdown_52w_pct": -0.32,
-    "realized_vol_20d": 10.6
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 9.3
   },
-  "confirmed": 4,
-  "signals": [
-    {
-      "ticker": "CF",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 100,
-      "mos": -19.9,
-      "rs_rank": 91,
-      "zones": {
-        "entry": 132.2,
-        "tp1": 137.59,
-        "tp2": 142.98,
-        "sl": 124.11
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "DVN",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 60,
-      "mos": 25.8,
-      "rs_rank": 81,
-      "zones": {
-        "entry": 48.29,
-        "tp1": 49.71,
-        "tp2": 51.13,
-        "sl": 46.16
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.5,
-      "rs_rank": 94,
-      "zones": {
-        "entry": 196.91,
-        "tp1": 205.19,
-        "tp2": 213.47,
-        "sl": 184.49
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "A",
-      "composite": 69,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -65.1,
-      "rs_rank": 91,
-      "zones": {
-        "entry": 155.06,
-        "tp1": 159.33,
-        "tp2": 163.6,
-        "sl": 148.66
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -104,9 +26,27 @@
       ]
     },
     {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SMCI",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "EPD",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BWMX",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -134,18 +74,6 @@
       ]
     },
     {
-      "ticker": "ABEV",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NVDA",
       "failed": [
         "Radar"
@@ -154,7 +82,7 @@
     {
       "ticker": "MU",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -170,15 +98,9 @@
       ]
     },
     {
-      "ticker": "PLTR",
+      "ticker": "ANET",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FTNT",
-      "failed": [
-        "Analysis"
+        "RS (r\u00e9gimen neutral)"
       ]
     }
   ]
