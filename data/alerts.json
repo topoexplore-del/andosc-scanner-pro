@@ -1,17 +1,57 @@
 {
-  "checked_at": "2026-09-21 19:25:11 (Hora Colombia)",
+  "checked_at": "2026-09-22 13:35:32 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 9.3
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 774.08,
+    "spy_sma200": 713.47,
+    "spy_vs_sma200_pct": 8.49,
+    "drawdown_52w_pct": -0.24,
+    "realized_vol_20d": 10.5
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 2,
+  "signals": [
+    {
+      "ticker": "MU",
+      "composite": 84,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -70.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 1001.02,
+        "tp1": 1050.28,
+        "tp2": 1099.54,
+        "sl": 927.13
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "A",
+      "composite": 69,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -65.1,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 155.23,
+        "tp1": 159.35,
+        "tp2": 163.47,
+        "sl": 149.05
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -80,12 +120,6 @@
       ]
     },
     {
-      "ticker": "MU",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
       "ticker": "SHEL",
       "failed": [
         "Radar"
@@ -100,7 +134,13 @@
     {
       "ticker": "ANET",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
       ]
     }
   ]
