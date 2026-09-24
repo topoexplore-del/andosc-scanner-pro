@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23 18:27:24 (Hora Colombia)",
+  "checked_at": "2026-09-23 19:04:52 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -91,6 +91,12 @@
       ]
     },
     {
+      "ticker": "ABEV",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ACN",
       "failed": [
         "Radar"
@@ -115,33 +121,27 @@
       ]
     },
     {
+      "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "TER",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ABEV",
+      "ticker": "SHOP",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
       "ticker": "MTCH",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "NVT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "QRVO",
-      "failed": [
-        "Radar"
       ]
     }
   ]
