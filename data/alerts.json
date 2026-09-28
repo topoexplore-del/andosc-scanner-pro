@@ -1,17 +1,38 @@
 {
-  "checked_at": "2026-09-25 19:15:26 (Hora Colombia)",
+  "checked_at": "2026-09-28 16:06:58 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 10.9
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 765.61,
+    "spy_sma200": 715.29,
+    "spy_vs_sma200_pct": 7.04,
+    "drawdown_52w_pct": -1.33,
+    "realized_vol_20d": 11.1
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "APA",
+      "composite": 94,
+      "prob": 95,
+      "buffett": 95,
+      "mos": 5.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 43.21,
+        "tp1": 44.76,
+        "tp2": 46.31,
+        "sl": 40.88
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -21,18 +42,6 @@
     },
     {
       "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "APA",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
-      "ticker": "NVDA",
       "failed": [
         "Radar"
       ]
@@ -51,12 +60,6 @@
     },
     {
       "ticker": "DVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ANET",
       "failed": [
         "Radar"
       ]
@@ -99,6 +102,24 @@
     },
     {
       "ticker": "DOCU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TTMI",
       "failed": [
         "Radar"
       ]
