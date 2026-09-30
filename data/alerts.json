@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29 19:06:27 (Hora Colombia)",
+  "checked_at": "2026-09-29 19:54:11 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -26,7 +26,19 @@
       ]
     },
     {
-      "ticker": "APA",
+      "ticker": "EC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
@@ -38,6 +50,12 @@
       ]
     },
     {
+      "ticker": "CLS",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "MU",
       "failed": [
         "Radar"
@@ -46,17 +64,23 @@
     {
       "ticker": "SHEL",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
-      "ticker": "DVN",
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "ASML",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "LRCX",
       "failed": [
         "Radar"
       ]
@@ -75,30 +99,6 @@
     },
     {
       "ticker": "TER",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SUNB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BBVA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "NVT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VICR",
       "failed": [
         "Radar"
       ]
