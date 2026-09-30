@@ -1,37 +1,17 @@
 {
-  "checked_at": "2026-09-29 14:51:02 (Hora Colombia)",
+  "checked_at": "2026-09-29 19:06:27 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 764.31,
-    "spy_sma200": 715.71,
-    "spy_vs_sma200_pct": 6.79,
-    "drawdown_52w_pct": -1.5,
-    "realized_vol_20d": 11.1
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 11.3
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "NVDA",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -82.0,
-      "rs_rank": 92,
-      "zones": {
-        "entry": 227.05,
-        "tp1": 233.07,
-        "tp2": 239.09,
-        "sl": 218.02
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -49,6 +29,12 @@
       "ticker": "APA",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "failed": [
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -115,12 +101,6 @@
       "ticker": "VICR",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "NDSN",
-      "failed": [
-        "Entry Zones"
       ]
     }
   ]
