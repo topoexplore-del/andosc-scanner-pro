@@ -1,17 +1,36 @@
 {
-  "checked_at": "2026-10-01 20:12:08 (Hora Colombia)",
+  "checked_at": "2026-10-02 14:48:00 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 11.0
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 769.96,
+    "spy_sma200": 717.04,
+    "spy_vs_sma200_pct": 7.38,
+    "drawdown_52w_pct": -0.77,
+    "realized_vol_20d": 10.4
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 20.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 94.58,
+        "tp1": 96.13,
+        "tp2": 97.68,
+        "sl": 92.25
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -35,18 +54,6 @@
       "ticker": "VLO",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
-      "ticker": "SHEL",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -92,6 +99,12 @@
       ]
     },
     {
+      "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "TT",
       "failed": [
         "Analysis"
@@ -101,6 +114,12 @@
       "ticker": "ITUB",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "NVT",
+      "failed": [
+        "Radar"
       ]
     }
   ]
