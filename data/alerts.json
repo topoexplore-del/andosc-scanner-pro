@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01 19:35:05 (Hora Colombia)",
+  "checked_at": "2026-10-01 20:12:08 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -26,6 +26,12 @@
       ]
     },
     {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VLO",
       "failed": [
         "Radar"
@@ -38,21 +44,15 @@
       ]
     },
     {
-      "ticker": "CLS",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "SHEL",
       "failed": [
         "RS (r\u00e9gimen neutral)"
+      ]
+    },
+    {
+      "ticker": "FN",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -92,13 +92,13 @@
       ]
     },
     {
-      "ticker": "SUNB",
+      "ticker": "TT",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "TT",
+      "ticker": "ITUB",
       "failed": [
         "Analysis"
       ]
