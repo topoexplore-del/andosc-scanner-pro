@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02 19:13:20 (Hora Colombia)",
+  "checked_at": "2026-10-02 19:50:21 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -32,9 +32,21 @@
       ]
     },
     {
+      "ticker": "APA",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
+    {
       "ticker": "VLO",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "PSX",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -62,12 +74,6 @@
       ]
     },
     {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "MPWR",
       "failed": [
         "Radar"
@@ -80,27 +86,21 @@
       ]
     },
     {
+      "ticker": "CLS",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CIEN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SHOP",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ITUB",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
