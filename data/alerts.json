@@ -1,17 +1,54 @@
 {
-  "checked_at": "2026-10-02 19:50:21 (Hora Colombia)",
+  "checked_at": "2026-10-05 16:52:22 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 10.2
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 774.83,
+    "spy_sma200": 717.56,
+    "spy_vs_sma200_pct": 7.98,
+    "drawdown_52w_pct": -0.14,
+    "realized_vol_20d": 10.5
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 2,
+  "signals": [
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 20.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 95.15,
+        "tp1": 96.69,
+        "tp2": 98.23,
+        "sl": 92.84
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "BP",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 20,
+      "mos": -63.4,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 44.18,
+        "tp1": 45.25,
+        "tp2": 46.32,
+        "sl": 42.58
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -47,12 +84,6 @@
       "ticker": "PSX",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "SHEL",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -99,6 +130,12 @@
     },
     {
       "ticker": "SHOP",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SUNB",
       "failed": [
         "Radar"
       ]
