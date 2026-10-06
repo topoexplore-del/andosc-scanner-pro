@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05 16:52:22 (Hora Colombia)",
+  "checked_at": "2026-10-05 21:02:01 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,42 +10,26 @@
     "drawdown_52w_pct": -0.14,
     "realized_vol_20d": 10.5
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
-      "ticker": "SHEL",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 50,
-      "mos": 20.2,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 95.15,
-        "tp1": 96.69,
-        "tp2": 98.23,
-        "sl": 92.84
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "BP",
+      "ticker": "QRVO",
       "composite": 66,
       "prob": 95,
-      "buffett": 20,
-      "mos": -63.4,
-      "rs_rank": 0,
+      "buffett": 65,
+      "mos": -45.9,
+      "rs_rank": 95,
       "zones": {
-        "entry": 44.18,
-        "tp1": 45.25,
-        "tp2": 46.32,
-        "sl": 42.58
+        "entry": 112.9,
+        "tp1": 117.12,
+        "tp2": 121.34,
+        "sl": 106.57
       },
       "periods": [
+        "1 Mes",
         "3 Meses",
-        "6 Meses"
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     }
   ],
@@ -69,9 +53,9 @@
       ]
     },
     {
-      "ticker": "APA",
+      "ticker": "ACN",
       "failed": [
-        "Entry Zones"
+        "Radar"
       ]
     },
     {
@@ -87,7 +71,7 @@
       ]
     },
     {
-      "ticker": "FN",
+      "ticker": "STRL",
       "failed": [
         "Radar"
       ]
@@ -117,12 +101,6 @@
       ]
     },
     {
-      "ticker": "CLS",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "CIEN",
       "failed": [
         "Radar"
@@ -136,6 +114,12 @@
     },
     {
       "ticker": "SUNB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "POWL",
       "failed": [
         "Radar"
       ]
