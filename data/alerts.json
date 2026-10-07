@@ -1,41 +1,26 @@
 {
-  "checked_at": "2026-10-06 19:26:02 (Hora Colombia)",
+  "checked_at": "2026-10-06 20:10:47 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 10.6
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 779.09,
+    "spy_sma200": 718.13,
+    "spy_vs_sma200_pct": 8.49,
+    "drawdown_52w_pct": 0.0,
+    "realized_vol_20d": 10.4
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "QRVO",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -45.9,
-      "rs_rank": 95,
-      "zones": {
-        "entry": 112.9,
-        "tp1": 117.12,
-        "tp2": 121.34,
-        "sl": 106.57
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
@@ -53,7 +38,7 @@
       ]
     },
     {
-      "ticker": "ACN",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
@@ -71,7 +56,13 @@
       ]
     },
     {
-      "ticker": "STRL",
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DVN",
       "failed": [
         "Radar"
       ]
@@ -83,13 +74,19 @@
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "TER",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "TER",
+      "ticker": "STRL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ABEV",
       "failed": [
         "Radar"
       ]
@@ -102,24 +99,6 @@
     },
     {
       "ticker": "CIEN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SHOP",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SUNB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "POWL",
       "failed": [
         "Radar"
       ]
