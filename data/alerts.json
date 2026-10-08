@@ -1,17 +1,134 @@
 {
-  "checked_at": "2026-10-07 20:25:36 (Hora Colombia)",
+  "checked_at": "2026-10-08 15:32:41 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 10.5
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 773.93,
+    "spy_sma200": 719.16,
+    "spy_vs_sma200_pct": 7.62,
+    "drawdown_52w_pct": -0.66,
+    "realized_vol_20d": 10.2
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 6,
+  "signals": [
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 17.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 97.13,
+        "tp1": 98.75,
+        "tp2": 100.37,
+        "sl": 94.7
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -86.6,
+      "rs_rank": 81,
+      "zones": {
+        "entry": 213.74,
+        "tp1": 220.7,
+        "tp2": 227.66,
+        "sl": 203.3
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "ABEV",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -32.7,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 3.19,
+        "tp1": 3.28,
+        "tp2": 3.37,
+        "sl": 3.05
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ZBRA",
+      "composite": 76,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -65.4,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 382.53,
+        "tp1": 393.36,
+        "tp2": 404.19,
+        "sl": 366.28
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "BP",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 20,
+      "mos": -64.1,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 44.7,
+        "tp1": 45.75,
+        "tp2": 46.8,
+        "sl": 43.12
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "WCC",
+      "composite": 60,
+      "prob": 95,
+      "buffett": 10,
+      "mos": -51.4,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 380.46,
+        "tp1": 392.57,
+        "tp2": 404.68,
+        "sl": 362.29
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -62,12 +179,6 @@
       ]
     },
     {
-      "ticker": "SHEL",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
       "ticker": "CSCO",
       "failed": [
         "Analysis"
@@ -92,15 +203,21 @@
       ]
     },
     {
-      "ticker": "ABEV",
+      "ticker": "ROK",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Analysis"
       ]
     },
     {
-      "ticker": "ZBRA",
+      "ticker": "CIEN",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SHOP",
+      "failed": [
+        "Radar"
       ]
     }
   ]
