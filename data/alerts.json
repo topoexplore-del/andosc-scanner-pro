@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07 19:46:17 (Hora Colombia)",
+  "checked_at": "2026-10-07 20:25:36 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -56,13 +56,25 @@
       ]
     },
     {
-      "ticker": "SHEL",
+      "ticker": "STRL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DVN",
+      "ticker": "SHEL",
+      "failed": [
+        "RS (r\u00e9gimen neutral)"
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "FN",
       "failed": [
         "Radar"
       ]
@@ -80,27 +92,15 @@
       ]
     },
     {
-      "ticker": "STRL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "ABEV",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
-      "ticker": "CIEN",
+      "ticker": "ZBRA",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ROK",
-      "failed": [
-        "Analysis"
+        "RS (r\u00e9gimen neutral)"
       ]
     }
   ]
