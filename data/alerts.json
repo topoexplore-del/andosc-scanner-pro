@@ -1,141 +1,28 @@
 {
-  "checked_at": "2026-10-09 15:01:21 (Hora Colombia)",
+  "checked_at": "2026-10-09 19:32:22 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 778.54,
-    "spy_sma200": 719.66,
-    "spy_vs_sma200_pct": 8.18,
-    "drawdown_52w_pct": -0.07,
-    "realized_vol_20d": 9.9
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 10.0
   },
-  "confirmed": 6,
-  "signals": [
-    {
-      "ticker": "SMCI",
-      "composite": 96,
-      "prob": 95,
-      "buffett": 55,
-      "mos": -20.9,
-      "rs_rank": 97,
-      "zones": {
-        "entry": 42.07,
-        "tp1": 44.39,
-        "tp2": 46.71,
-        "sl": 38.59
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -82.2,
-      "rs_rank": 78,
-      "zones": {
-        "entry": 228.75,
-        "tp1": 234.5,
-        "tp2": 240.25,
-        "sl": 220.12
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ABEV",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -31.2,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 3.12,
-        "tp1": 3.21,
-        "tp2": 3.3,
-        "sl": 2.99
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "PWR",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 35,
-      "mos": -83.6,
-      "rs_rank": 69,
-      "zones": {
-        "entry": 678.04,
-        "tp1": 702.35,
-        "tp2": 726.66,
-        "sl": 641.57
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ON",
-      "composite": 56,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -69.2,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 81.47,
-        "tp1": 84.93,
-        "tp2": 88.39,
-        "sl": 76.28
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ON",
-      "composite": 56,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -69.2,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 81.47,
-        "tp1": 84.93,
-        "tp2": 88.39,
-        "sl": 76.28
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "failed": [
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -154,6 +41,12 @@
       "ticker": "VLO",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "failed": [
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -199,25 +92,13 @@
       ]
     },
     {
+      "ticker": "ABEV",
+      "failed": [
+        "RS (r\u00e9gimen neutral)"
+      ]
+    },
+    {
       "ticker": "CIEN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ROK",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SHOP",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SUNB",
       "failed": [
         "Radar"
       ]
