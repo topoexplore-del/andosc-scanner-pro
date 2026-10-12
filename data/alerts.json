@@ -1,17 +1,114 @@
 {
-  "checked_at": "2026-10-09 20:21:17 (Hora Colombia)",
+  "checked_at": "2026-10-12 17:25:13 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 10.0
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 778.1,
+    "spy_sma200": 720.14,
+    "spy_vs_sma200_pct": 8.05,
+    "drawdown_52w_pct": -0.13,
+    "realized_vol_20d": 9.8
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 5,
+  "signals": [
+    {
+      "ticker": "APA",
+      "composite": 94,
+      "prob": 95,
+      "buffett": 95,
+      "mos": 1.5,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 44.99,
+        "tp1": 46.59,
+        "tp2": 48.19,
+        "sl": 42.59
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 14.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 99.67,
+        "tp1": 101.44,
+        "tp2": 103.21,
+        "sl": 97.02
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ABEV",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -32.1,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 3.16,
+        "tp1": 3.25,
+        "tp2": 3.34,
+        "sl": 3.03
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "BP",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 20,
+      "mos": -65.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 46.02,
+        "tp1": 47.15,
+        "tp2": 48.28,
+        "sl": 44.33
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -71.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 402.59,
+        "tp1": 413.73,
+        "tp2": 424.87,
+        "sl": 385.88
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -28,13 +125,7 @@
     {
       "ticker": "SMCI",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
-      "ticker": "APA",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Radar"
       ]
     },
     {
@@ -56,12 +147,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
       "ticker": "STRL",
       "failed": [
         "Radar"
@@ -71,12 +156,6 @@
       "ticker": "FMX",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "SHEL",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -92,13 +171,31 @@
       ]
     },
     {
-      "ticker": "PLTR",
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "TER",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CIEN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SYK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SHOP",
       "failed": [
         "Radar"
       ]
