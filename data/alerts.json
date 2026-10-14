@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13 19:11:13 (Hora Colombia)",
+  "checked_at": "2026-10-13 19:44:16 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -10,28 +10,8 @@
     "drawdown_52w_pct": NaN,
     "realized_vol_20d": 9.8
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "SHEL",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 50,
-      "mos": 14.8,
-      "rs_rank": 90,
-      "zones": {
-        "entry": 99.66,
-        "tp1": 101.38,
-        "tp2": 103.1,
-        "sl": 97.08
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -41,18 +21,6 @@
     },
     {
       "ticker": "EOG",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TROW",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MU",
       "failed": [
         "Radar"
       ]
@@ -94,33 +62,45 @@
       ]
     },
     {
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "WMB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ANET",
       "failed": [
         "RS (r\u00e9gimen neutral)"
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "MA",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "ABEV",
+      "ticker": "ZBRA",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SHOP",
-      "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     }
   ]
