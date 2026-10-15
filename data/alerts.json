@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15 18:34:13 (Hora Colombia)",
+  "checked_at": "2026-10-15 18:58:34 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,8 +10,66 @@
     "drawdown_52w_pct": -0.94,
     "realized_vol_20d": 9.6
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 3,
+  "signals": [
+    {
+      "ticker": "EC",
+      "composite": 91,
+      "prob": 95,
+      "buffett": 60,
+      "mos": 300.0,
+      "rs_rank": 86,
+      "zones": {
+        "entry": 17.75,
+        "tp1": 18.26,
+        "tp2": 18.77,
+        "sl": 16.98
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "FAST",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -81.2,
+      "rs_rank": 84,
+      "zones": {
+        "entry": 51.61,
+        "tp1": 52.91,
+        "tp2": 54.21,
+        "sl": 49.66
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "MDT",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -36.4,
+      "rs_rank": 86,
+      "zones": {
+        "entry": 93.51,
+        "tp1": 95.92,
+        "tp2": 98.33,
+        "sl": 89.9
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -20,15 +78,15 @@
       ]
     },
     {
-      "ticker": "APA",
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "EC",
+      "ticker": "APA",
       "failed": [
-        "Entry Zones"
+        "Radar"
       ]
     },
     {
@@ -44,13 +102,25 @@
       ]
     },
     {
-      "ticker": "DLO",
+      "ticker": "FMX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMGN",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "SHEL",
+      "ticker": "DVN",
       "failed": [
         "Radar"
       ]
@@ -62,13 +132,25 @@
       ]
     },
     {
+      "ticker": "LLY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CIB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "WIT",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SYK",
+      "ticker": "SHOP",
       "failed": [
         "Radar"
       ]
@@ -77,30 +159,6 @@
       "ticker": "SUNB",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "YMM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ABBV",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "JCI",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
