@@ -1,55 +1,17 @@
 {
-  "checked_at": "2026-10-14 18:45:39 (Hora Colombia)",
+  "checked_at": "2026-10-14 19:14:29 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 769.6,
-    "spy_sma200": 721.02,
-    "spy_vs_sma200_pct": 6.74,
-    "drawdown_52w_pct": -1.22,
-    "realized_vol_20d": 10.3
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 9.5
   },
-  "confirmed": 2,
-  "signals": [
-    {
-      "ticker": "ZBRA",
-      "composite": 76,
-      "prob": 95,
-      "buffett": 55,
-      "mos": -65.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 385.15,
-        "tp1": 395.04,
-        "tp2": 404.93,
-        "sl": 370.31
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes"
-      ]
-    },
-    {
-      "ticker": "BP",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 20,
-      "mos": -65.5,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 46.4,
-        "tp1": 47.49,
-        "tp2": 48.58,
-        "sl": 44.77
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -58,15 +20,15 @@
       ]
     },
     {
-      "ticker": "EOG",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "APA",
+      "ticker": "EC",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
@@ -88,33 +50,9 @@
       ]
     },
     {
-      "ticker": "STRL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FMX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "SHEL",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "FN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WMB",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -130,15 +68,39 @@
       ]
     },
     {
-      "ticker": "MA",
+      "ticker": "WIT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SYK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SUNB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "YMM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DELL",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "CIEN",
+      "ticker": "ABBV",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
