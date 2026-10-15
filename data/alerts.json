@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-14 19:14:29 (Hora Colombia)",
+  "checked_at": "2026-10-15 13:55:36 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 9.5
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 770.56,
+    "spy_sma200": 721.46,
+    "spy_vs_sma200_pct": 6.81,
+    "drawdown_52w_pct": -1.09,
+    "realized_vol_20d": 9.6
   },
   "confirmed": 0,
   "signals": [],
@@ -62,12 +62,6 @@
       ]
     },
     {
-      "ticker": "ANET",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
       "ticker": "WIT",
       "failed": [
         "Radar"
@@ -99,6 +93,12 @@
     },
     {
       "ticker": "ABBV",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "JCI",
       "failed": [
         "Analysis"
       ]
