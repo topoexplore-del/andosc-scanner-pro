@@ -1,73 +1,17 @@
 {
-  "checked_at": "2026-10-20 18:40:13 (Hora Colombia)",
+  "checked_at": "2026-10-20 19:14:02 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 769.05,
-    "spy_sma200": 722.78,
-    "spy_vs_sma200_pct": 6.4,
-    "drawdown_52w_pct": -1.29,
-    "realized_vol_20d": 9.0
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 9.2
   },
-  "confirmed": 3,
-  "signals": [
-    {
-      "ticker": "ABEV",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -33.3,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 3.27,
-        "tp1": 3.35,
-        "tp2": 3.43,
-        "sl": 3.15
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "MNST",
-      "composite": 74,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -76.4,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 45.43,
-        "tp1": 46.44,
-        "tp2": 47.45,
-        "sl": 43.91
-      },
-      "periods": [
-        "1 Semana"
-      ]
-    },
-    {
-      "ticker": "A",
-      "composite": 69,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -68.4,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 171.59,
-        "tp1": 176.2,
-        "tp2": 180.81,
-        "sl": 164.68
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -84,13 +28,7 @@
     {
       "ticker": "VIST",
       "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "CINF",
-      "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -112,7 +50,19 @@
       ]
     },
     {
-      "ticker": "DLTR",
+      "ticker": "STZ",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ROST",
       "failed": [
         "Analysis"
       ]
@@ -121,12 +71,6 @@
       "ticker": "GRMN",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "AFL",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -142,9 +86,9 @@
       ]
     },
     {
-      "ticker": "AMGN",
+      "ticker": "PODD",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -154,9 +98,9 @@
       ]
     },
     {
-      "ticker": "ABNB",
+      "ticker": "SYK",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
