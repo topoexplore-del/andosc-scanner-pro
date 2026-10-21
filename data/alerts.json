@@ -1,17 +1,94 @@
 {
-  "checked_at": "2026-10-20 19:14:02 (Hora Colombia)",
+  "checked_at": "2026-10-21 14:09:38 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 9.2
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 771.43,
+    "spy_sma200": 723.23,
+    "spy_vs_sma200_pct": 6.66,
+    "drawdown_52w_pct": -0.98,
+    "realized_vol_20d": 8.7
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 4,
+  "signals": [
+    {
+      "ticker": "MNST",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -77.0,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 46.48,
+        "tp1": 47.56,
+        "tp2": 48.64,
+        "sl": 44.86
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -33.0,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 223.05,
+        "tp1": 227.45,
+        "tp2": 231.85,
+        "sl": 216.45
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "NUE",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 45,
+      "mos": -36.4,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 258.52,
+        "tp1": 265.89,
+        "tp2": 273.26,
+        "sl": 247.46
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "HXL",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 25,
+      "mos": -69.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 90.88,
+        "tp1": 93.33,
+        "tp2": 95.78,
+        "sl": 87.2
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
