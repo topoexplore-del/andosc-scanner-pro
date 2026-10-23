@@ -1,17 +1,56 @@
 {
-  "checked_at": "2026-10-22 19:16:36 (Hora Colombia)",
+  "checked_at": "2026-10-23 13:54:54 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 9.1
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 760.46,
+    "spy_sma200": 724.0,
+    "spy_vs_sma200_pct": 5.04,
+    "drawdown_52w_pct": -2.39,
+    "realized_vol_20d": 9.7
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 2,
+  "signals": [
+    {
+      "ticker": "BP",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 20,
+      "mos": -67.5,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 49.51,
+        "tp1": 50.65,
+        "tp2": 51.79,
+        "sl": 47.8
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -71.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 402.19,
+        "tp1": 414.75,
+        "tp2": 427.31,
+        "sl": 383.35
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
