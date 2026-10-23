@@ -1,75 +1,17 @@
 {
-  "checked_at": "2026-10-22 18:54:32 (Hora Colombia)",
+  "checked_at": "2026-10-22 19:16:36 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 763.96,
-    "spy_sma200": 723.62,
-    "spy_vs_sma200_pct": 5.57,
-    "drawdown_52w_pct": -1.94,
-    "realized_vol_20d": 9.8
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 9.1
   },
-  "confirmed": 3,
-  "signals": [
-    {
-      "ticker": "ABEV",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -33.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 3.3,
-        "tp1": 3.38,
-        "tp2": 3.46,
-        "sl": 3.18
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "KOF",
-      "composite": 65,
-      "prob": 95,
-      "buffett": 55,
-      "mos": -78.4,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 117.39,
-        "tp1": 120.39,
-        "tp2": 123.39,
-        "sl": 112.89
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes"
-      ]
-    },
-    {
-      "ticker": "HXL",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 25,
-      "mos": -69.7,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 90.59,
-        "tp1": 93.02,
-        "tp2": 95.45,
-        "sl": 86.95
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -102,9 +44,39 @@
       ]
     },
     {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ACN",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
+    {
+      "ticker": "STZ",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DLTR",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -120,12 +92,6 @@
       ]
     },
     {
-      "ticker": "THG",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "FMX",
       "failed": [
         "Radar"
@@ -135,30 +101,6 @@
       "ticker": "SHEL",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "AMGN",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "DVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
