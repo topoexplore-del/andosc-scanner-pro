@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-10-26 15:20:41 (Hora Colombia)",
+  "checked_at": "2026-10-26 19:16:00 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 765.37,
-    "spy_sma200": 724.41,
-    "spy_vs_sma200_pct": 5.65,
-    "drawdown_52w_pct": -1.76,
-    "realized_vol_20d": 9.8
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 9.7
   },
-  "confirmed": 3,
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "GRMN",
@@ -29,24 +29,6 @@
         "1 Semana",
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "CNI",
-      "composite": 74,
-      "prob": 95,
-      "buffett": 75,
-      "mos": -54.2,
-      "rs_rank": 44,
-      "zones": {
-        "entry": 124.29,
-        "tp1": 126.43,
-        "tp2": 128.57,
-        "sl": 121.08
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
       ]
     },
     {
