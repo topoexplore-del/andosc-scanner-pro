@@ -1,17 +1,73 @@
 {
-  "checked_at": "2026-10-26 19:54:25 (Hora Colombia)",
+  "checked_at": "2026-10-27 14:53:39 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 9.7
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 770.45,
+    "spy_sma200": 724.82,
+    "spy_vs_sma200_pct": 6.3,
+    "drawdown_52w_pct": -1.11,
+    "realized_vol_20d": 10.0
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 3,
+  "signals": [
+    {
+      "ticker": "CNI",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 75,
+      "mos": -53.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 122.48,
+        "tp1": 124.71,
+        "tp2": 126.94,
+        "sl": 119.14
+      },
+      "periods": [
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "composite": 70,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -42.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 34.61,
+        "tp1": 35.64,
+        "tp2": 36.67,
+        "sl": 33.06
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "NSC",
+      "composite": 64,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -57.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 328.22,
+        "tp1": 334.11,
+        "tp2": 340.0,
+        "sl": 319.39
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
