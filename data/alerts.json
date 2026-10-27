@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26 19:16:00 (Hora Colombia)",
+  "checked_at": "2026-10-26 19:54:25 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -10,47 +10,8 @@
     "drawdown_52w_pct": NaN,
     "realized_vol_20d": 9.7
   },
-  "confirmed": 2,
-  "signals": [
-    {
-      "ticker": "GRMN",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -65.8,
-      "rs_rank": 91,
-      "zones": {
-        "entry": 293.15,
-        "tp1": 300.65,
-        "tp2": 308.15,
-        "sl": 281.9
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "VRTX",
-      "composite": 73,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -66.8,
-      "rs_rank": 80,
-      "zones": {
-        "entry": 531.14,
-        "tp1": 544.57,
-        "tp2": 558.0,
-        "sl": 511.0
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -83,9 +44,21 @@
       ]
     },
     {
-      "ticker": "ACN",
+      "ticker": "EC",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "ABEV",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DLTR",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -107,9 +80,9 @@
       ]
     },
     {
-      "ticker": "AMGN",
+      "ticker": "PODD",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -128,18 +101,6 @@
       "ticker": "PLTR",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "CIB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "MCO",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
