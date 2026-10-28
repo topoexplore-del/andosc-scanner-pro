@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27 19:17:08 (Hora Colombia)",
+  "checked_at": "2026-10-27 19:52:23 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -13,12 +13,6 @@
   "confirmed": 0,
   "signals": [],
   "watchlist": [
-    {
-      "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
     {
       "ticker": "EOG",
       "failed": [
@@ -38,6 +32,12 @@
       ]
     },
     {
+      "ticker": "CINF",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "APA",
       "failed": [
         "Radar"
@@ -50,27 +50,27 @@
       ]
     },
     {
-      "ticker": "ABEV",
+      "ticker": "NXPI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DLTR",
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "RL",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "STLD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "FMX",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "ticker": "MMM",
+      "ticker": "PSA",
       "failed": [
         "Analysis"
       ]
