@@ -1,93 +1,17 @@
 {
-  "checked_at": "2026-10-28 15:07:21 (Hora Colombia)",
+  "checked_at": "2026-10-28 19:39:20 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 772.39,
-    "spy_sma200": 725.23,
-    "spy_vs_sma200_pct": 6.5,
-    "drawdown_52w_pct": -0.86,
-    "realized_vol_20d": 10.0
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 10.2
   },
-  "confirmed": 4,
-  "signals": [
-    {
-      "ticker": "FMX",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 35,
-      "mos": -16.7,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 124.08,
-        "tp1": 127.07,
-        "tp2": 130.06,
-        "sl": 119.59
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "CNI",
-      "composite": 74,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -53.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 122.63,
-        "tp1": 124.8,
-        "tp2": 126.97,
-        "sl": 119.38
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "NSC",
-      "composite": 64,
-      "prob": 95,
-      "buffett": 55,
-      "mos": -58.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 332.25,
-        "tp1": 338.04,
-        "tp2": 343.83,
-        "sl": 323.56
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -71.9,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 403.9,
-        "tp1": 417.34,
-        "tp2": 430.78,
-        "sl": 383.74
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "EOG",
@@ -144,6 +68,12 @@
       ]
     },
     {
+      "ticker": "FMX",
+      "failed": [
+        "RS (r\u00e9gimen neutral)"
+      ]
+    },
+    {
       "ticker": "SHEL",
       "failed": [
         "Radar"
@@ -169,12 +99,6 @@
     },
     {
       "ticker": "PLTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PAC",
       "failed": [
         "Radar"
       ]
