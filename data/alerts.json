@@ -1,73 +1,17 @@
 {
-  "checked_at": "2026-10-29 15:05:47 (Hora Colombia)",
+  "checked_at": "2026-10-29 19:39:57 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 769.49,
-    "spy_sma200": 725.63,
-    "spy_vs_sma200_pct": 6.04,
-    "drawdown_52w_pct": -1.23,
-    "realized_vol_20d": 10.1
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 10.2
   },
-  "confirmed": 3,
-  "signals": [
-    {
-      "ticker": "XOM",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 30,
-      "mos": -41.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 178.73,
-        "tp1": 182.65,
-        "tp2": 186.57,
-        "sl": 172.85
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "A",
-      "composite": 69,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -68.9,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 176.01,
-        "tp1": 180.94,
-        "tp2": 185.87,
-        "sl": 168.61
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -73.0,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 421.19,
-        "tp1": 435.05,
-        "tp2": 448.91,
-        "sl": 400.4
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "EOG",
