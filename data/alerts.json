@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29 19:39:57 (Hora Colombia)",
+  "checked_at": "2026-10-29 20:27:09 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -32,12 +32,6 @@
       ]
     },
     {
-      "ticker": "BWMX",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "APA",
       "failed": [
         "Radar"
@@ -45,18 +39,6 @@
     },
     {
       "ticker": "EC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
       "failed": [
         "Radar"
       ]
@@ -70,13 +52,13 @@
     {
       "ticker": "STLD",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
-      "ticker": "AFL",
+      "ticker": "MSFT",
       "failed": [
-        "Analysis"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -92,6 +74,12 @@
       ]
     },
     {
+      "ticker": "AMGN",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PODD",
       "failed": [
         "Radar"
@@ -99,6 +87,18 @@
     },
     {
       "ticker": "DVN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "WMB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "NUE",
       "failed": [
         "Radar"
       ]
