@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30 19:30:28 (Hora Colombia)",
+  "checked_at": "2026-10-30 20:11:49 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -26,9 +26,15 @@
       ]
     },
     {
-      "ticker": "VIST",
+      "ticker": "GEN",
       "failed": [
-        "Radar"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BWMX",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -44,15 +50,39 @@
       ]
     },
     {
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ACN",
       "failed": [
         "Radar"
       ]
     },
     {
+      "ticker": "BBY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "STLD",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Radar"
       ]
     },
     {
@@ -62,43 +92,13 @@
       ]
     },
     {
+      "ticker": "RL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "FMX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SHEL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMGN",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PODD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WMB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "NUE",
       "failed": [
         "Radar"
       ]
