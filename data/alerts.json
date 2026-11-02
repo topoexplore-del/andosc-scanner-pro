@@ -1,17 +1,71 @@
 {
-  "checked_at": "2026-10-30 20:11:49 (Hora Colombia)",
+  "checked_at": "2026-11-02 18:00:38 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 10.0
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 752.1,
+    "spy_sma200": 726.31,
+    "spy_vs_sma200_pct": 3.55,
+    "drawdown_52w_pct": -3.46,
+    "realized_vol_20d": 11.3
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 3,
+  "signals": [
+    {
+      "ticker": "MSFT",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -68.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 526.67,
+        "tp1": 538.25,
+        "tp2": 549.83,
+        "sl": 509.3
+      },
+      "periods": [
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "MNST",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -76.7,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 46.05,
+        "tp1": 47.06,
+        "tp2": 48.07,
+        "sl": 44.53
+      },
+      "periods": [
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "IEX",
+      "composite": 60,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -60.7,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 237.61,
+        "tp1": 243.35,
+        "tp2": 249.09,
+        "sl": 229.0
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "EOG",
@@ -86,12 +140,6 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
       "ticker": "RL",
       "failed": [
         "Analysis"
@@ -101,6 +149,12 @@
       "ticker": "FMX",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "AMGN",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
