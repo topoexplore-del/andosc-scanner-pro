@@ -1,24 +1,203 @@
 {
-  "checked_at": "2026-11-03 20:46:25 (Hora Colombia)",
+  "checked_at": "2026-11-04 16:05:48 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 11.3
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 766.81,
+    "spy_sma200": 727.12,
+    "spy_vs_sma200_pct": 5.46,
+    "drawdown_52w_pct": -1.58,
+    "realized_vol_20d": 12.8
   },
-  "confirmed": 0,
-  "signals": [],
-  "watchlist": [
+  "confirmed": 10,
+  "signals": [
     {
       "ticker": "EOG",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
+      "composite": 100,
+      "prob": 95,
+      "buffett": 100,
+      "mos": -16.1,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 156.69,
+        "tp1": 160.7,
+        "tp2": 164.71,
+        "sl": 150.68
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     },
+    {
+      "ticker": "XOM",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -33.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 178.4,
+        "tp1": 182.63,
+        "tp2": 186.86,
+        "sl": 172.06
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "MDLZ",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 35,
+      "mos": -41.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 65.96,
+        "tp1": 67.36,
+        "tp2": 68.76,
+        "sl": 63.86
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "TXN",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -80.0,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 299.09,
+        "tp1": 308.84,
+        "tp2": 318.59,
+        "sl": 284.46
+      },
+      "periods": [
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "GWW",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -79.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 1369.25,
+        "tp1": 1397.27,
+        "tp2": 1425.29,
+        "sl": 1327.22
+      },
+      "periods": [
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "MNST",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -77.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 47.71,
+        "tp1": 48.75,
+        "tp2": 49.79,
+        "sl": 46.15
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "composite": 73,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -71.0,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 548.4,
+        "tp1": 564.22,
+        "tp2": 580.04,
+        "sl": 524.67
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "COP",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -34.5,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 145.71,
+        "tp1": 149.48,
+        "tp2": 153.25,
+        "sl": 140.06
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "IEX",
+      "composite": 60,
+      "prob": 79,
+      "buffett": 70,
+      "mos": -60.3,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 234.77,
+        "tp1": 240.59,
+        "tp2": 246.41,
+        "sl": 226.04
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "composite": 56,
+      "prob": 95,
+      "buffett": 25,
+      "mos": -84.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 103.59,
+        "tp1": 107.53,
+        "tp2": 111.47,
+        "sl": 97.68
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
+  "watchlist": [
     {
       "ticker": "CF",
       "failed": [
@@ -98,9 +277,15 @@
       ]
     },
     {
-      "ticker": "XOM",
+      "ticker": "NUE",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MCO",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
