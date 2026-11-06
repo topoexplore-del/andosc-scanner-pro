@@ -1,17 +1,190 @@
 {
-  "checked_at": "2026-11-05 20:54:17 (Hora Colombia)",
+  "checked_at": "2026-11-06 15:43:24 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 13.1
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 736.92,
+    "spy_sma200": 727.65,
+    "spy_vs_sma200_pct": 1.27,
+    "drawdown_52w_pct": -5.41,
+    "realized_vol_20d": 20.0
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 9,
+  "signals": [
+    {
+      "ticker": "CTSH",
+      "composite": 95,
+      "prob": 95,
+      "buffett": 80,
+      "mos": -3.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 64.93,
+        "tp1": 67.76,
+        "tp2": 70.59,
+        "sl": 60.69
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "TXN",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -80.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 308.39,
+        "tp1": 318.73,
+        "tp2": 329.07,
+        "sl": 292.88
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "GRMN",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -62.7,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 286.19,
+        "tp1": 296.07,
+        "tp2": 305.95,
+        "sl": 271.37
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 35,
+      "mos": -15.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 129.27,
+        "tp1": 132.3,
+        "tp2": 135.33,
+        "sl": 124.73
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "MDLZ",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 35,
+      "mos": -42.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 66.92,
+        "tp1": 68.44,
+        "tp2": 69.96,
+        "sl": 64.64
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "MNST",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -77.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 48.42,
+        "tp1": 49.52,
+        "tp2": 50.62,
+        "sl": 46.77
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "A",
+      "composite": 69,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -69.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 175.6,
+        "tp1": 180.82,
+        "tp2": 186.04,
+        "sl": 167.77
+      },
+      "periods": [
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "IEX",
+      "composite": 60,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -59.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 231.83,
+        "tp1": 238.02,
+        "tp2": 244.21,
+        "sl": 222.55
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "composite": 56,
+      "prob": 95,
+      "buffett": 35,
+      "mos": -85.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 110.79,
+        "tp1": 114.95,
+        "tp2": 119.11,
+        "sl": 104.55
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "NEM",
@@ -23,12 +196,6 @@
       "ticker": "ALL",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "CTSH",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -98,9 +265,15 @@
       ]
     },
     {
-      "ticker": "TXN",
+      "ticker": "AFL",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
