@@ -1,28 +1,138 @@
 {
-  "checked_at": "2026-11-06 20:18:43 (Hora Colombia)",
+  "checked_at": "2026-11-09 18:42:57 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 20.4
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 752.69,
+    "spy_sma200": 727.99,
+    "spy_vs_sma200_pct": 3.39,
+    "drawdown_52w_pct": -3.39,
+    "realized_vol_20d": 22.0
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 6,
+  "signals": [
+    {
+      "ticker": "CTSH",
+      "composite": 95,
+      "prob": 95,
+      "buffett": 80,
+      "mos": -4.3,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 65.71,
+        "tp1": 68.49,
+        "tp2": 71.27,
+        "sl": 61.54
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "GWW",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -78.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 1440.16,
+        "tp1": 1477.6,
+        "tp2": 1515.04,
+        "sl": 1384.0
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "MDLZ",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 35,
+      "mos": -42.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 66.35,
+        "tp1": 67.91,
+        "tp2": 69.47,
+        "sl": 64.01
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "MNST",
+      "composite": 68,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -76.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 47.48,
+        "tp1": 48.63,
+        "tp2": 49.78,
+        "sl": 45.75
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "VEEV",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -74.4,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 307.33,
+        "tp1": 316.56,
+        "tp2": 325.79,
+        "sl": 293.48
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "composite": 56,
+      "prob": 95,
+      "buffett": 35,
+      "mos": -85.3,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 106.32,
+        "tp1": 110.74,
+        "tp2": 115.16,
+        "sl": 99.69
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "NEM",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "CTSH",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -68,12 +178,6 @@
       ]
     },
     {
-      "ticker": "GWW",
-      "failed": [
-        "RS (r\u00e9gimen neutral)"
-      ]
-    },
-    {
       "ticker": "GRMN",
       "failed": [
         "Radar"
@@ -98,9 +202,21 @@
       ]
     },
     {
-      "ticker": "MDLZ",
+      "ticker": "FNV",
       "failed": [
-        "RS (r\u00e9gimen neutral)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MCO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "PAC",
+      "failed": [
+        "Radar"
       ]
     }
   ]
