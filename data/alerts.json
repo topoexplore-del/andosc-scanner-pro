@@ -1,135 +1,30 @@
 {
-  "checked_at": "2026-11-10 16:14:09 (Hora Colombia)",
+  "checked_at": "2026-11-10 20:36:55 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 750.01,
-    "spy_sma200": 728.3,
-    "spy_vs_sma200_pct": 2.98,
-    "drawdown_52w_pct": -3.73,
-    "realized_vol_20d": 22.0
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 22.6
   },
-  "confirmed": 6,
-  "signals": [
+  "confirmed": 0,
+  "signals": [],
+  "watchlist": [
     {
       "ticker": "NEM",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 100,
-      "mos": -31.5,
-      "rs_rank": 69,
-      "zones": {
-        "entry": 119.52,
-        "tp1": 124.16,
-        "tp2": 128.8,
-        "sl": 112.56
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+      "failed": [
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
-      "ticker": "FMX",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 35,
-      "mos": -14.5,
-      "rs_rank": 84,
-      "zones": {
-        "entry": 128.93,
-        "tp1": 132.0,
-        "tp2": 135.07,
-        "sl": 124.33
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+      "ticker": "AA",
+      "failed": [
+        "Radar"
       ]
     },
-    {
-      "ticker": "FNV",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -65.8,
-      "rs_rank": 77,
-      "zones": {
-        "entry": 252.4,
-        "tp1": 260.89,
-        "tp2": 269.38,
-        "sl": 239.67
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "REGN",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 75,
-      "mos": -35.0,
-      "rs_rank": 88,
-      "zones": {
-        "entry": 894.96,
-        "tp1": 926.26,
-        "tp2": 957.56,
-        "sl": 848.01
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "VEEV",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -73.9,
-      "rs_rank": 99,
-      "zones": {
-        "entry": 300.84,
-        "tp1": 310.49,
-        "tp2": 320.14,
-        "sl": 286.36
-      },
-      "periods": [
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "EL",
-      "composite": 56,
-      "prob": 95,
-      "buffett": 35,
-      "mos": -85.4,
-      "rs_rank": 98,
-      "zones": {
-        "entry": 108.7,
-        "tp1": 113.23,
-        "tp2": 117.76,
-        "sl": 101.91
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
-  "watchlist": [
     {
       "ticker": "CTSH",
       "failed": [
@@ -140,6 +35,12 @@
       "ticker": "FOX",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "BWMX",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -157,13 +58,13 @@
     {
       "ticker": "NXPI",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
       "ticker": "NXPI",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -173,7 +74,7 @@
       ]
     },
     {
-      "ticker": "PODD",
+      "ticker": "STZ",
       "failed": [
         "Radar"
       ]
@@ -181,43 +82,25 @@
     {
       "ticker": "AEM",
       "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
-      "ticker": "GRMN",
+      "ticker": "MSFT",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "TXN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ALGN",
+      "ticker": "GWW",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SONY",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "MDT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EPAM",
-      "failed": [
-        "Radar"
+        "RS (r\u00e9gimen neutral)"
       ]
     }
   ]
