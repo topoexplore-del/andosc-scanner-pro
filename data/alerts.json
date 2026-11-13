@@ -1,17 +1,77 @@
 {
-  "checked_at": "2026-11-12 21:14:20 (Hora Colombia)",
+  "checked_at": "2026-11-13 16:14:40 (Hora Colombia)",
   "regime": {
-    "regime": "NEUTRAL",
-    "icon": "\ud83d\udfe1",
-    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 23.0
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 754.21,
+    "spy_sma200": 729.31,
+    "spy_vs_sma200_pct": 3.41,
+    "drawdown_52w_pct": -3.19,
+    "realized_vol_20d": 22.1
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 3,
+  "signals": [
+    {
+      "ticker": "ANET",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -84.0,
+      "rs_rank": 94,
+      "zones": {
+        "entry": 203.15,
+        "tp1": 214.76,
+        "tp2": 226.37,
+        "sl": 185.74
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "FNV",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -66.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 246.1,
+        "tp1": 254.96,
+        "tp2": 263.82,
+        "sl": 232.81
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "NSC",
+      "composite": 64,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -57.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 328.55,
+        "tp1": 335.35,
+        "tp2": 342.15,
+        "sl": 318.35
+      },
+      "periods": [
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "EOG",
@@ -92,13 +152,13 @@
       ]
     },
     {
-      "ticker": "ANET",
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "AVGO",
       "failed": [
         "Radar"
       ]
