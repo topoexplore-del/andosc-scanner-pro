@@ -1,62 +1,32 @@
 {
-  "checked_at": "2026-11-12 16:46:07 (Hora Colombia)",
+  "checked_at": "2026-11-12 21:14:20 (Hora Colombia)",
   "regime": {
-    "regime": "BULL",
-    "icon": "\ud83d\udfe2",
-    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 757.12,
-    "spy_sma200": 728.99,
-    "spy_vs_sma200_pct": 3.86,
-    "drawdown_52w_pct": -2.82,
-    "realized_vol_20d": 22.4
+    "regime": "NEUTRAL",
+    "icon": "\ud83d\udfe1",
+    "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
+    "spy_price": NaN,
+    "spy_sma200": NaN,
+    "spy_vs_sma200_pct": NaN,
+    "drawdown_52w_pct": NaN,
+    "realized_vol_20d": 23.0
   },
-  "confirmed": 2,
-  "signals": [
+  "confirmed": 0,
+  "signals": [],
+  "watchlist": [
     {
-      "ticker": "FMX",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 35,
-      "mos": -16.7,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 131.51,
-        "tp1": 134.63,
-        "tp2": 137.75,
-        "sl": 126.83
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+      "ticker": "EOG",
+      "failed": [
+        "Radar"
       ]
     },
     {
-      "ticker": "FNV",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -66.5,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 253.14,
-        "tp1": 261.97,
-        "tp2": 270.8,
-        "sl": 239.89
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    }
-  ],
-  "watchlist": [
-    {
       "ticker": "NEM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AEM",
       "failed": [
         "Radar"
       ]
@@ -104,13 +74,19 @@
       ]
     },
     {
-      "ticker": "AEM",
+      "ticker": "GRMN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "GRMN",
+      "ticker": "FMX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NUE",
       "failed": [
         "Radar"
       ]
@@ -123,24 +99,6 @@
     },
     {
       "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TXN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HWM",
       "failed": [
         "Radar"
       ]
