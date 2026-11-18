@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17 17:48:23 (Hora Colombia)",
+  "checked_at": "2026-11-17 22:17:23 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,30 +10,50 @@
     "drawdown_52w_pct": -5.99,
     "realized_vol_20d": 23.1
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "EOG",
-      "composite": 100,
+      "ticker": "FAST",
+      "composite": 74,
       "prob": 95,
-      "buffett": 100,
-      "mos": -6.8,
-      "rs_rank": 77,
+      "buffett": 85,
+      "mos": -81.8,
+      "rs_rank": 78,
       "zones": {
-        "entry": 157.01,
-        "tp1": 161.37,
-        "tp2": 165.73,
-        "sl": 150.47
+        "entry": 54.73,
+        "tp1": 55.98,
+        "tp2": 57.23,
+        "sl": 52.85
       },
       "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "NSC",
+      "composite": 64,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -57.1,
+      "rs_rank": 51,
+      "zones": {
+        "entry": 327.22,
+        "tp1": 334.06,
+        "tp2": 340.9,
+        "sl": 316.96
+      },
+      "periods": [
+        "3 Meses"
       ]
     }
   ],
   "watchlist": [
+    {
+      "ticker": "EOG",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
     {
       "ticker": "FOX",
       "failed": [
@@ -41,15 +61,21 @@
       ]
     },
     {
-      "ticker": "DECK",
+      "ticker": "BWMX",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
       "ticker": "CF",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "COP",
+      "failed": [
+        "Entry Zones"
       ]
     },
     {
@@ -71,19 +97,7 @@
       ]
     },
     {
-      "ticker": "PODD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "TXN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FNV",
       "failed": [
         "Radar"
       ]
@@ -95,7 +109,7 @@
       ]
     },
     {
-      "ticker": "ABNB",
+      "ticker": "MDLZ",
       "failed": [
         "Analysis"
       ]
@@ -107,21 +121,21 @@
       ]
     },
     {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HWM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NYT",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "SUNB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "UL",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
