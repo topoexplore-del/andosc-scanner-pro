@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-11-17 22:17:23 (Hora Colombia)",
+  "checked_at": "2026-11-18 17:30:06 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 732.44,
-    "spy_sma200": 729.79,
-    "spy_vs_sma200_pct": 0.36,
-    "drawdown_52w_pct": -5.99,
-    "realized_vol_20d": 23.1
+    "spy_price": 730.2,
+    "spy_sma200": 730.02,
+    "spy_vs_sma200_pct": 0.02,
+    "drawdown_52w_pct": -6.28,
+    "realized_vol_20d": 22.9
   },
   "confirmed": 2,
   "signals": [
@@ -121,6 +121,12 @@
       ]
     },
     {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "NYT",
       "failed": [
         "Radar"
@@ -130,12 +136,6 @@
       "ticker": "SUNB",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "UL",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
