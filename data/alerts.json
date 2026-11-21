@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20 17:09:10 (Hora Colombia)",
+  "checked_at": "2026-11-20 21:56:00 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -14,37 +14,19 @@
   "signals": [],
   "watchlist": [
     {
-      "ticker": "FOX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "POWL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "BBY",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "HWM",
+      "ticker": "PDD",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "NYT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SUNB",
+      "ticker": "YMM",
       "failed": [
         "Radar"
       ]
@@ -56,25 +38,7 @@
       ]
     },
     {
-      "ticker": "EVRG",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "CMCSA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "D",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SJM",
+      "ticker": "WRB",
       "failed": [
         "Analysis"
       ]
