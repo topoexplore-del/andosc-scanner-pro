@@ -1,20 +1,80 @@
 {
-  "checked_at": "2026-11-23 21:02:02 (Hora Colombia)",
+  "checked_at": "2026-11-24 00:37:35 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
     "advice": "Mercado en transici\u00f3n \u2014 solo se\u00f1ales de m\u00e1xima calidad (RS alto).",
-    "spy_price": NaN,
-    "spy_sma200": NaN,
-    "spy_vs_sma200_pct": NaN,
-    "drawdown_52w_pct": NaN,
-    "realized_vol_20d": 26.6
+    "spy_price": 722.29,
+    "spy_sma200": 730.47,
+    "spy_vs_sma200_pct": -1.12,
+    "drawdown_52w_pct": -7.29,
+    "realized_vol_20d": 31.9
   },
   "confirmed": 0,
   "signals": [],
   "watchlist": [
     {
+      "ticker": "DECK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "PDD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FNV",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FN",
       "failed": [
         "Radar"
       ]
@@ -32,7 +92,13 @@
       ]
     },
     {
-      "ticker": "WRB",
+      "ticker": "NDSN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SONY",
       "failed": [
         "Analysis"
       ]
