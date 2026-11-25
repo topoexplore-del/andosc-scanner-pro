@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24 18:47:08 (Hora Colombia)",
+  "checked_at": "2026-11-24 23:39:47 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -92,15 +92,15 @@
       ]
     },
     {
-      "ticker": "NDSN",
+      "ticker": "ROKU",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
-      "ticker": "SONY",
+      "ticker": "NDSN",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
