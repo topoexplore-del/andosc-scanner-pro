@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25 18:29:38 (Hora Colombia)",
+  "checked_at": "2026-11-25 22:52:30 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -10,9 +10,34 @@
     "drawdown_52w_pct": -8.01,
     "realized_vol_20d": 31.6
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "A",
+      "composite": 69,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -69.6,
+      "rs_rank": 98,
+      "zones": {
+        "entry": 181.77,
+        "tp1": 187.61,
+        "tp2": 193.45,
+        "sl": 173.01
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
+    {
+      "ticker": "FOX",
+      "failed": [
+        "Radar"
+      ]
+    },
     {
       "ticker": "DECK",
       "failed": [
@@ -20,13 +45,7 @@
       ]
     },
     {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
+      "ticker": "STZ",
       "failed": [
         "Radar"
       ]
@@ -35,6 +54,12 @@
       "ticker": "PDD",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "CPAY",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -50,15 +75,21 @@
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "AMGN",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "FN",
+      "ticker": "RCL",
       "failed": [
-        "Radar"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -80,12 +111,6 @@
       ]
     },
     {
-      "ticker": "NDSN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "SONY",
       "failed": [
         "Analysis"
@@ -95,12 +120,6 @@
       "ticker": "EPAM",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "ABBV",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
