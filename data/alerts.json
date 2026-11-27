@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26 18:31:55 (Hora Colombia)",
+  "checked_at": "2026-11-26 22:55:49 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -10,24 +10,42 @@
     "drawdown_52w_pct": -8.01,
     "realized_vol_20d": 31.6
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "A",
-      "composite": 69,
+      "ticker": "CNI",
+      "composite": 74,
       "prob": 95,
-      "buffett": 85,
-      "mos": -69.6,
-      "rs_rank": 98,
+      "buffett": 65,
+      "mos": -54.2,
+      "rs_rank": 70,
       "zones": {
-        "entry": 181.77,
-        "tp1": 187.61,
-        "tp2": 193.45,
-        "sl": 173.01
+        "entry": 125.64,
+        "tp1": 128.17,
+        "tp2": 130.7,
+        "sl": 121.84
+      },
+      "periods": [
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "SPGI",
+      "composite": 64,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -65.3,
+      "rs_rank": 80,
+      "zones": {
+        "entry": 457.37,
+        "tp1": 468.59,
+        "tp2": 479.81,
+        "sl": 440.54
       },
       "periods": [
         "1 Semana",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
@@ -45,6 +63,12 @@
       ]
     },
     {
+      "ticker": "RL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "STZ",
       "failed": [
         "Radar"
@@ -54,12 +78,6 @@
       "ticker": "PDD",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "CPAY",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -75,49 +93,49 @@
       ]
     },
     {
+      "ticker": "MMM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "WM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "MDLZ",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "MA",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ULTA",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "AMGN",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "RCL",
+      "ticker": "YUM",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "DG",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "YMM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "REGN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ROKU",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "SONY",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "EPAM",
+      "ticker": "BX",
       "failed": [
         "Radar"
       ]
